@@ -1,0 +1,4411 @@
+SurveyID,EnvironmentSatisfactionLevel,JobSatisfactionLevel,WorkLifeBalanceLevel
+0,High,Very High,Good
+1,High,Medium,Best
+2,Medium,Medium,Bad
+3,Very High,Very High,Better
+4,Very High,Low,Better
+5,High,Medium,Good
+6,Low,High,Bad
+7,Low,Medium,Better
+8,Medium,Very High,Better
+9,Medium,Low,Better
+10,High,Very High,Better
+11,High,Very High,Better
+12,Very High,Low,Better
+13,Low,Medium,Good
+14,Very High,Very High,Good
+15,High,Very High,Best
+16,Very High,High,Best
+17,Low,Very High,Better
+18,Medium,Medium,Good
+19,Low,Low,Better
+20,High,Medium,Bad
+21,Low,Medium,Good
+22,High,High,Good
+23,Medium,High,Better
+24,Medium,Very High,Good
+25,Medium,Very High,Better
+26,Low,Low,Better
+27,Very High,Very High,Better
+28,Very High,High,Bad
+29,Very High,Very High,Better
+30,Low,Medium,Better
+31,Very High,Very High,Better
+32,High,Low,Better
+33,High,Medium,Better
+34,Very High,Medium,Good
+35,Very High,Very High,Better
+36,Medium,Very High,Good
+37,High,Medium,Best
+38,High,High,Better
+39,High,Medium,Good
+40,High,High,Better
+41,Very High,Medium,Better
+42,Very High,Medium,Better
+43,Very High,High,Better
+44,Medium,Low,Better
+45,Medium,Very High,Good
+46,High,Very High,Good
+47,Medium,Medium,Better
+48,Very High,High,Good
+49,Low,Medium,Better
+50,Very High,High,Better
+51,High,Very High,Better
+52,Low,Low,Better
+53,Low,Low,Better
+54,High,Very High,Bad
+55,Very High,Medium,Better
+56,High,Low,Better
+57,High,Very High,Better
+58,High,High,Better
+59,High,Medium,Good
+60,High,Medium,Good
+61,High,Medium,Better
+62,Very High,High,Better
+63,Very High,Very High,Better
+64,Low,Very High,Good
+65,Low,Very High,Good
+66,Very High,Very High,Better
+67,High,High,Better
+68,High,Very High,Better
+69,Very High,High,Good
+70,Medium,Very High,Good
+71,Very High,High,Better
+72,High,High,Best
+73,High,Medium,Better
+74,Very High,High,Good
+75,High,Low,Good
+76,Very High,Very High,Better
+77,Medium,Very High,Good
+78,Medium,Low,Good
+79,Medium,Very High,Better
+80,Very High,High,Better
+81,Medium,Medium,Better
+82,Very High,Very High,Good
+83,High,Very High,Better
+84,High,Very High,Better
+85,Very High,Medium,Better
+86,High,Medium,Better
+87,High,Very High,Good
+88,Very High,Medium,Better
+89,Medium,High,Better
+90,Low,Very High,Better
+91,Very High,High,Good
+92,High,High,Better
+93,High,Medium,Better
+94,Low,High,Bad
+95,High,Low,Better
+96,Very High,High,Best
+97,High,High,Better
+98,Low,Very High,Better
+99,Low,Medium,Better
+100,Very High,Very High,Better
+101,Low,Very High,Better
+102,Very High,High,Better
+103,Very High,High,Better
+104,Low,Very High,Good
+105,Very High,High,Better
+106,High,Low,Better
+107,High,High,Best
+108,Low,Medium,Better
+109,Very High,Very High,Better
+110,High,High,Better
+111,High,Medium,Better
+112,High,Medium,Better
+113,Very High,Very High,Better
+114,High,Medium,Better
+115,Very High,Medium,Better
+116,Medium,Very High,Better
+117,Medium,High,Better
+118,High,Very High,Good
+119,Very High,High,Better
+120,Low,Very High,Good
+121,High,Very High,Better
+122,Very High,High,Best
+123,High,Medium,Better
+124,High,High,Better
+125,Low,Medium,Better
+126,Medium,High,Better
+127,High,Very High,Better
+128,Very High,Low,Good
+129,Very High,Medium,Better
+130,Medium,Low,Better
+131,High,Medium,Good
+132,Low,Medium,Better
+133,Medium,High,Better
+134,Low,Low,Good
+135,High,High,Better
+136,Medium,Low,Bad
+137,Very High,Very High,Better
+138,High,High,Better
+139,Medium,Very High,Better
+140,Medium,High,Better
+141,Very High,Low,Better
+142,Medium,High,Better
+143,High,Low,Good
+144,Medium,High,Better
+145,Medium,Low,Better
+146,High,Low,Better
+147,Low,Low,Better
+148,Very High,High,Better
+149,Low,Very High,Good
+150,Very High,Very High,Bad
+151,Low,High,Better
+152,High,Very High,Better
+153,Low,Low,Bad
+154,High,High,Good
+155,Very High,Very High,Best
+156,Low,Medium,Better
+157,Very High,High,Good
+158,Very High,Very High,Better
+159,High,High,Better
+160,Low,Very High,Bad
+161,High,Very High,Bad
+162,Medium,High,Better
+163,High,Medium,Best
+164,Low,Very High,Best
+165,High,Low,Better
+166,Low,Very High,Good
+167,Medium,High,Better
+168,High,Very High,Good
+169,High,Low,Best
+170,Low,Very High,Better
+171,Low,High,Bad
+172,Very High,High,Better
+173,High,High,Better
+174,Very High,High,Better
+175,High,Very High,Better
+176,High,Medium,Best
+177,Medium,High,Best
+178,Low,Very High,Better
+179,Very High,Medium,Better
+180,Very High,High,Better
+181,Low,High,Better
+182,Medium,Low,Better
+183,Medium,High,Better
+184,Medium,Very High,Good
+185,High,High,Better
+186,Medium,Very High,Better
+187,Low,Medium,Better
+188,Very High,Very High,Better
+189,Medium,High,Better
+190,Medium,High,Better
+191,High,High,Better
+192,Medium,Very High,Best
+193,Very High,Low,Good
+194,Very High,Medium,Best
+195,High,High,Good
+196,Very High,Very High,Best
+197,Low,High,Better
+198,High,Very High,Good
+199,Medium,Medium,Better
+200,High,Low,Better
+201,Low,High,Better
+202,Low,High,Better
+203,Low,High,Better
+204,Very High,Very High,Better
+205,High,Very High,Bad
+206,Medium,Very High,Best
+207,Low,High,Good
+208,Medium,Low,Better
+209,Low,Medium,Better
+210,Very High,Low,Better
+211,Very High,High,Better
+212,Very High,Very High,Better
+213,High,High,Better
+214,Medium,Medium,Good
+215,Very High,High,Better
+216,Medium,Very High,Better
+217,Low,Medium,Best
+218,Very High,Medium,Better
+219,Low,Medium,Better
+220,Medium,High,Better
+221,Low,High,Better
+222,Medium,Low,Best
+223,Medium,Very High,Better
+224,Medium,Low,Bad
+225,Low,Very High,Better
+226,Low,Very High,Best
+227,Low,High,Good
+228,Very High,High,Good
+229,Very High,Medium,Best
+230,High,Very High,Better
+231,Medium,Very High,Good
+232,High,Low,Good
+233,Very High,High,Better
+234,Very High,Low,Bad
+235,Low,High,Best
+236,High,High,Better
+237,High,Low,Better
+238,High,High,Better
+239,Very High,Very High,Best
+240,Low,High,Better
+241,High,High,Better
+242,Low,Very High,Good
+243,High,High,Better
+244,Very High,Low,Best
+245,Medium,Very High,Good
+246,Low,Low,Better
+247,High,Very High,Better
+248,High,High,Better
+249,Medium,High,Good
+250,Medium,Very High,Better
+251,High,Very High,Bad
+252,High,Medium,Best
+253,Medium,Medium,Better
+254,Low,Very High,Better
+255,Very High,High,Better
+256,Low,Low,Better
+257,High,High,Better
+258,Low,Low,Best
+259,Very High,Medium,Better
+260,Very High,Very High,Better
+261,Medium,Very High,Better
+262,Medium,Medium,Better
+263,Very High,Very High,Better
+264,Very High,Very High,Better
+265,Very High,High,Better
+266,Very High,Medium,Best
+267,Low,High,Better
+268,Very High,High,Better
+269,Very High,Very High,Good
+270,Medium,High,Better
+271,Medium,Very High,Good
+272,High,Low,Better
+273,High,Very High,Better
+274,Very High,Low,Better
+275,Very High,Low,Better
+276,High,High,Better
+277,Medium,Very High,Good
+278,Low,Low,Better
+279,Very High,Low,Good
+280,Very High,High,Better
+281,Very High,Medium,Better
+282,Low,Medium,Better
+283,Low,Low,Better
+284,High,High,Best
+285,Low,High,Better
+286,Very High,High,Good
+287,High,Very High,Good
+288,High,High,Better
+289,High,High,Better
+290,Very High,Very High,Better
+291,Medium,High,Better
+292,Medium,Low,Best
+293,High,Medium,Bad
+294,High,Very High,Good
+295,Very High,Very High,Good
+296,Very High,Low,Bad
+297,Very High,Medium,Better
+298,Very High,Very High,Better
+299,Very High,Low,Best
+300,High,Very High,Better
+301,Very High,High,Bad
+302,Medium,Low,Better
+303,High,Low,Best
+304,Very High,Very High,Good
+305,High,Very High,Good
+306,Medium,High,Better
+307,Low,High,Better
+308,Medium,High,Better
+309,Very High,Very High,Better
+310,Very High,Low,Better
+311,Low,Low,Better
+312,Very High,Very High,Better
+313,Low,High,Better
+314,Medium,High,Good
+315,Very High,Low,Good
+316,Medium,Very High,Better
+317,Very High,Low,Better
+318,High,Very High,Better
+319,Very High,Low,Good
+320,Low,Low,Better
+321,High,Low,Better
+322,Low,Very High,Good
+323,Very High,High,Better
+324,High,Medium,Better
+325,High,Low,Better
+326,Medium,Very High,Good
+327,High,Low,Better
+328,High,Medium,Better
+329,Very High,High,Better
+330,High,High,Better
+331,Medium,Low,Better
+332,High,High,Best
+333,Low,Low,Better
+334,High,Very High,Good
+335,High,Medium,Better
+336,High,High,Better
+337,Very High,Medium,Better
+338,Very High,High,Better
+339,Very High,Very High,Better
+340,High,High,Good
+341,High,Medium,Better
+342,High,High,Better
+343,Low,High,Better
+344,High,Very High,Good
+345,Medium,High,Better
+346,Medium,Medium,Good
+347,Low,Low,Good
+348,High,Very High,Better
+349,High,Very High,Best
+350,High,Very High,Good
+351,Medium,Low,Better
+352,High,Very High,Better
+353,High,High,Best
+354,Medium,Medium,Better
+355,High,Very High,Bad
+356,High,High,Better
+357,Very High,Very High,Good
+358,Low,High,Good
+359,Very High,Medium,Good
+360,Low,Low,Good
+361,Low,Low,Better
+362,High,Low,Good
+363,Medium,Very High,Good
+364,Medium,Very High,Good
+365,Medium,Very High,Good
+366,Low,Very High,Better
+367,Very High,Low,Better
+368,High,High,Good
+369,High,Very High,Better
+370,Very High,High,Better
+371,Medium,Very High,Better
+372,Very High,Very High,Bad
+373,Low,Very High,Good
+374,Medium,Very High,Better
+375,Low,Low,Better
+376,High,Low,Better
+377,Very High,High,Better
+378,Very High,Medium,Good
+379,Very High,Very High,Better
+380,High,Low,Best
+381,High,Low,Better
+382,Low,Very High,Good
+383,Medium,Medium,Better
+384,Medium,Medium,Better
+385,High,Very High,Good
+386,Very High,Very High,Better
+387,Medium,High,Better
+388,Low,Very High,Better
+389,Very High,Medium,Better
+390,High,Very High,Better
+391,Very High,Very High,Better
+392,Very High,Very High,Good
+393,High,Very High,Better
+394,Low,Medium,Better
+395,Low,Low,Better
+396,Very High,Very High,Better
+397,Very High,Medium,Best
+398,Low,Very High,Bad
+399,Low,Very High,Better
+400,Medium,Low,Better
+401,Low,Very High,Better
+402,Very High,Very High,Good
+403,Low,Medium,Best
+404,High,High,Good
+405,High,Very High,Good
+406,High,Very High,Good
+407,Very High,Very High,Good
+408,Medium,High,Best
+409,Medium,Very High,Good
+410,High,High,Better
+411,Very High,Low,Bad
+412,Medium,High,Better
+413,Medium,Medium,Better
+414,High,High,Better
+415,High,Low,Better
+416,High,Medium,Better
+417,Medium,High,Best
+418,Very High,Very High,Bad
+419,Low,Medium,Good
+420,Very High,High,Good
+421,Very High,High,Good
+422,Medium,Very High,Better
+423,Very High,Low,Better
+424,High,Medium,Better
+425,High,Medium,Better
+426,Low,Medium,Good
+427,High,Low,Better
+428,Very High,Low,Better
+429,High,High,Better
+430,Very High,Medium,Best
+431,Low,Low,Better
+432,Very High,Very High,Bad
+433,Very High,Medium,Better
+434,High,Low,Best
+435,High,Very High,Better
+436,Medium,Very High,Better
+437,Low,High,Bad
+438,High,Medium,Good
+439,High,Very High,Better
+440,High,High,Better
+441,Very High,Very High,Good
+442,Very High,High,Better
+443,High,High,Best
+444,High,High,Best
+445,High,Very High,Better
+446,Very High,Very High,Better
+447,Low,High,Better
+448,Medium,Medium,Good
+449,High,High,Best
+450,Low,Very High,Better
+451,High,Low,Better
+452,Very High,High,Better
+453,Very High,Low,Better
+454,Medium,Very High,Better
+455,Very High,Very High,Better
+456,Very High,Very High,Good
+457,High,Medium,Better
+458,Low,High,Best
+459,High,Medium,Better
+460,Very High,Low,Better
+461,Very High,Very High,Better
+462,Low,High,Better
+463,Very High,High,Better
+464,High,High,Good
+465,Very High,High,Better
+466,Very High,High,Better
+467,High,Medium,Bad
+468,High,Low,Better
+469,Medium,Very High,Better
+470,High,High,Better
+471,High,High,Good
+472,Medium,Low,Good
+473,Very High,Low,Better
+474,Medium,Medium,Better
+475,Very High,Very High,Better
+476,Medium,Low,Good
+477,Low,High,Better
+478,High,High,Better
+479,Very High,High,Better
+480,Very High,Very High,Better
+481,Low,Very High,Better
+482,Medium,Very High,Good
+483,Very High,High,Better
+484,Low,Very High,Better
+485,High,Very High,Better
+486,Low,Medium,Bad
+487,High,Medium,Better
+488,Medium,High,Better
+489,High,Very High,Better
+490,Medium,Low,Better
+491,Low,Very High,Better
+492,Very High,Very High,Better
+493,Very High,High,Better
+494,High,Low,Better
+495,Very High,Low,Better
+496,Medium,Very High,Good
+497,Very High,Very High,Best
+498,Very High,High,Better
+499,Medium,Very High,Good
+500,Medium,Very High,Bad
+501,Medium,Medium,Better
+502,High,Medium,Better
+503,Low,High,Good
+504,Low,Low,Better
+505,High,High,Better
+506,Very High,Medium,Better
+507,High,High,Better
+508,Medium,High,Good
+509,Very High,Medium,Good
+510,High,Low,Good
+511,Low,High,Better
+512,Very High,Very High,Better
+513,High,High,Better
+514,Low,High,Better
+515,Very High,Very High,Good
+516,High,Low,Best
+517,High,Very High,Better
+518,Very High,Very High,Better
+519,High,Low,Good
+520,Very High,Low,Better
+521,Low,High,Best
+522,Medium,Low,Good
+523,Low,Low,Better
+524,High,Low,Good
+525,Medium,High,Better
+526,High,High,Good
+527,Low,Very High,Better
+528,Low,High,Better
+529,Very High,Medium,Better
+530,High,High,Best
+531,Medium,Low,Better
+532,Very High,Very High,Better
+533,Very High,Low,Better
+534,Low,High,Better
+535,Low,High,Good
+536,Low,Very High,Good
+537,Very High,Very High,Better
+538,Very High,Very High,Best
+539,Low,High,Good
+540,Low,Medium,Better
+541,Very High,Low,Better
+542,Low,Medium,Better
+543,Very High,High,Better
+544,Very High,Medium,Better
+545,High,Very High,Better
+546,Low,Very High,Good
+547,Medium,High,Better
+548,Medium,Medium,Better
+549,High,High,Better
+550,High,Very High,Better
+551,Very High,Medium,Good
+552,Low,High,Better
+553,Very High,Medium,Better
+554,High,Low,Better
+555,Low,Very High,Better
+556,High,High,Best
+557,Very High,Medium,Best
+558,High,Medium,Good
+559,Low,Very High,Better
+560,High,Very High,Better
+561,Low,Medium,Bad
+562,Very High,Very High,Better
+563,Very High,Medium,Better
+564,Very High,High,Good
+565,Very High,Medium,Good
+566,Medium,Very High,Better
+567,Medium,Very High,Good
+568,High,High,Best
+569,High,High,Better
+570,High,High,Better
+571,Low,Low,Better
+572,Medium,Very High,Better
+573,High,High,Good
+574,High,Very High,Better
+575,Very High,High,Better
+576,Medium,High,Good
+577,High,High,Bad
+578,Very High,Low,Bad
+579,Medium,High,Good
+580,High,Low,Good
+581,Medium,Low,Best
+582,Very High,High,Better
+583,Very High,Medium,Better
+584,High,Very High,Good
+585,Low,Very High,Better
+586,High,High,Better
+587,High,Very High,Bad
+588,High,Medium,Best
+589,Very High,Low,Better
+590,Very High,Very High,Best
+591,Low,High,Good
+592,High,Low,Better
+593,Very High,Low,Better
+594,Medium,Very High,Better
+595,High,Low,Better
+596,Low,High,Good
+597,Very High,Very High,Good
+598,Low,High,Good
+599,High,High,Better
+600,Very High,High,Better
+601,Medium,Very High,Good
+602,High,Very High,Better
+603,High,Low,Better
+604,Very High,High,Better
+605,Medium,High,Better
+606,Low,Low,Bad
+607,High,Low,Better
+608,Medium,Medium,Better
+609,Very High,Low,Better
+610,Very High,Low,Better
+611,Very High,Medium,Better
+612,High,Low,Better
+613,Very High,Medium,Bad
+614,Medium,High,Good
+615,High,High,Better
+616,High,High,Good
+617,Very High,Very High,Better
+618,High,Very High,Better
+619,Very High,Very High,Good
+620,Very High,Low,Best
+621,Medium,Very High,Better
+622,High,Medium,Better
+623,Very High,High,Better
+624,High,Low,Better
+625,Low,Very High,Better
+626,Medium,Medium,Best
+627,High,Very High,Better
+628,Very High,Medium,Better
+629,Low,Low,Better
+630,High,Very High,Good
+631,Low,Low,Good
+632,Very High,High,Bad
+633,Low,Very High,Better
+634,Low,Medium,Best
+635,Low,Very High,Better
+636,Very High,Very High,Better
+637,High,Low,Good
+638,High,Low,Better
+639,High,Very High,Better
+640,High,Very High,Better
+641,Low,High,Best
+642,High,Medium,Good
+643,Very High,Medium,Good
+644,Low,High,Better
+645,High,Very High,Better
+646,Very High,Very High,Best
+647,Very High,Very High,Good
+648,High,High,Good
+649,Medium,Medium,Better
+650,Very High,High,Better
+651,Medium,Very High,Better
+652,Very High,High,Better
+653,High,Very High,Better
+654,High,Very High,Good
+655,Low,Medium,Better
+656,Very High,Medium,Better
+657,Low,High,Bad
+658,Very High,Medium,Better
+659,High,Low,Better
+660,Very High,Medium,Good
+661,Very High,Very High,Good
+662,High,Medium,Best
+663,Very High,High,Good
+664,High,Low,Good
+665,High,Medium,Best
+666,High,High,Better
+667,Medium,Medium,Better
+668,Very High,Very High,Best
+669,High,Medium,Better
+670,Low,Very High,Better
+671,Very High,Very High,Better
+672,Medium,High,Good
+673,High,High,Better
+674,Medium,High,Better
+675,Very High,Low,Good
+676,Very High,Medium,Good
+677,High,Very High,Best
+678,High,Medium,Better
+679,High,Medium,Better
+680,Low,High,Better
+681,Very High,High,Better
+682,High,Low,Better
+683,Low,Very High,Better
+684,Very High,High,Better
+685,Very High,Low,Best
+686,High,Very High,Better
+687,Very High,Low,Better
+688,Very High,Medium,Better
+689,Medium,Medium,Good
+690,Medium,Low,Better
+691,Low,High,Better
+692,Very High,High,Good
+693,High,Medium,Better
+694,Very High,Medium,Best
+695,Low,Low,Best
+696,High,High,Good
+697,Very High,High,Better
+698,Very High,Medium,Better
+699,High,High,Better
+700,Very High,Very High,Good
+701,High,Very High,Better
+702,High,Low,Better
+703,High,High,Better
+704,High,Medium,Better
+705,Medium,Low,Better
+706,High,Low,Best
+707,Very High,Very High,Good
+708,High,Low,Good
+709,Medium,Medium,Better
+710,Low,Low,Good
+711,Very High,Very High,Better
+712,High,Very High,Better
+713,Very High,Medium,Good
+714,Very High,Very High,Best
+715,Very High,Very High,Better
+716,Very High,Very High,Better
+717,Low,High,Good
+718,Very High,Medium,Better
+719,Low,High,Better
+720,Medium,High,Better
+721,Medium,High,Better
+722,High,Very High,Best
+723,Very High,High,Good
+724,Very High,High,Better
+725,High,Very High,Best
+726,High,Low,Better
+727,Very High,High,Good
+728,Low,Very High,Best
+729,Medium,Medium,Better
+730,Very High,Very High,Good
+731,High,High,Better
+732,Medium,Very High,Best
+733,High,Medium,Good
+734,High,High,Better
+735,Low,High,Better
+736,Very High,High,Good
+737,Low,High,Bad
+738,Very High,Very High,Better
+739,Very High,High,Better
+740,Low,Very High,Better
+741,High,Low,Better
+742,High,Low,Bad
+743,Low,High,Better
+744,High,Very High,Better
+745,Low,Very High,Good
+746,High,Low,Better
+747,Medium,Low,Good
+748,Low,Low,Better
+749,High,Very High,Better
+750,Very High,Very High,Good
+751,Very High,Low,Better
+752,Medium,Very High,Best
+753,Low,Medium,Better
+754,Medium,High,Better
+755,Very High,Low,Better
+756,Low,Medium,Best
+757,Very High,Low,Better
+758,Low,Medium,Best
+759,Medium,Low,Best
+760,Low,Very High,Good
+761,High,Low,Good
+762,Low,Very High,Good
+763,Low,Low,Better
+764,High,High,Bad
+765,Low,Low,Best
+766,Low,High,Best
+767,Very High,High,Better
+768,Very High,Very High,Good
+769,Very High,Medium,Good
+770,Medium,High,Good
+771,High,High,Best
+772,Low,Very High,Better
+773,Low,Very High,Best
+774,Low,Low,Best
+775,High,Medium,Better
+776,Medium,Low,Better
+777,Very High,Medium,Better
+778,Medium,Very High,Bad
+779,Medium,Very High,Best
+780,High,Low,Better
+781,Low,High,Better
+782,Very High,Medium,Better
+783,Very High,Low,Better
+784,High,High,Better
+785,Very High,Medium,Good
+786,Low,High,Good
+787,High,High,Best
+788,Very High,Medium,Good
+789,Very High,Low,Better
+790,Very High,Low,Better
+791,Very High,High,Good
+792,Low,Very High,Better
+793,Low,High,Good
+794,High,High,Good
+795,Medium,High,Good
+796,High,Medium,Better
+797,Medium,Low,Good
+798,Low,High,Best
+799,Low,Medium,Bad
+800,Low,Medium,Best
+801,Very High,High,Better
+802,Medium,Low,Good
+803,Very High,Medium,Better
+804,Medium,High,Good
+805,High,High,Better
+806,High,High,Best
+807,Very High,High,Better
+808,Low,Medium,Better
+809,High,High,Good
+810,High,Low,Good
+811,Low,High,Bad
+812,High,Low,Better
+813,High,Low,Better
+814,Very High,Medium,Better
+815,High,Medium,Good
+816,Very High,High,Better
+817,High,Very High,Best
+818,Medium,Very High,Better
+819,Low,Low,Bad
+820,Very High,Low,Best
+821,Medium,Medium,Better
+822,High,Medium,Best
+823,Very High,Medium,Bad
+824,Low,High,Better
+825,Very High,Low,Bad
+826,Very High,High,Better
+827,Very High,High,Bad
+828,High,Very High,Better
+829,Medium,High,Better
+830,High,Medium,Better
+831,Low,Very High,Better
+832,High,Low,Better
+833,Very High,Medium,Better
+834,Very High,Very High,Better
+835,Very High,Very High,Bad
+836,Low,Low,Best
+837,Medium,High,Better
+838,High,Very High,Better
+839,High,Low,Better
+840,Very High,Very High,Better
+841,Low,Medium,Better
+842,Medium,High,Better
+843,Very High,Medium,Better
+844,High,Very High,Good
+845,High,High,Better
+846,High,High,Good
+847,Low,Low,Bad
+848,Medium,Low,Better
+849,High,High,Better
+850,Very High,Low,Better
+851,High,Medium,Better
+852,Low,Low,Better
+853,High,Very High,Better
+854,High,Medium,Better
+855,Very High,Low,Good
+856,High,Low,Good
+857,Low,Very High,Bad
+858,High,Very High,Better
+859,Medium,High,Good
+860,Low,Very High,Better
+861,High,Medium,Better
+862,Medium,Medium,Best
+863,Medium,High,Better
+864,Medium,Low,Better
+865,Low,High,Better
+866,Very High,High,Better
+867,Low,Very High,Best
+868,High,High,Better
+869,Very High,High,Better
+870,Low,Low,Better
+871,Very High,Very High,Better
+872,Medium,High,Good
+873,Very High,High,Good
+874,Very High,Low,Better
+875,Very High,Medium,Better
+876,High,Very High,Good
+877,Very High,Low,Bad
+878,High,Medium,Better
+879,Medium,High,Good
+880,Medium,High,Better
+881,Medium,Very High,Better
+882,Medium,Very High,Good
+883,Medium,Medium,Good
+884,High,Low,Better
+885,Low,Low,Better
+886,Very High,Low,Better
+887,High,High,Better
+888,High,Very High,Better
+889,High,Low,Good
+890,Medium,Low,Better
+891,Very High,Low,Better
+892,Medium,Low,Better
+893,Medium,Low,Good
+894,High,Very High,Better
+895,Medium,Very High,Best
+896,Very High,High,Better
+897,High,High,Better
+898,Low,High,Better
+899,High,High,Better
+900,High,High,Good
+901,Low,High,Bad
+902,Very High,Very High,Better
+903,Very High,High,Best
+904,Very High,Low,Better
+905,Medium,Medium,Bad
+906,High,Very High,Good
+907,Low,Very High,Better
+908,High,Very High,Better
+909,High,Very High,Good
+910,Low,Very High,Better
+911,Medium,High,Better
+912,Very High,Very High,Good
+913,Low,Low,Bad
+914,High,High,Better
+915,Medium,Low,Better
+916,Very High,High,Better
+917,Very High,Medium,Better
+918,Low,Medium,Better
+919,Very High,Low,Better
+920,High,High,Better
+921,Very High,Medium,Better
+922,Low,Medium,Better
+923,High,High,Better
+924,Very High,High,Better
+925,Very High,Low,Better
+926,Medium,High,Better
+927,High,High,Better
+928,Very High,Very High,Best
+929,Very High,Very High,Best
+930,Low,Medium,Good
+931,Very High,Very High,Better
+932,Very High,Medium,Good
+933,Low,Very High,Better
+934,Very High,Low,Good
+935,Very High,Medium,Better
+936,Medium,Medium,Better
+937,High,High,Better
+938,Very High,High,Better
+939,Very High,Low,Better
+940,High,Very High,Better
+941,Low,High,Good
+942,High,Very High,Better
+943,Very High,High,Better
+944,Very High,High,Good
+945,Medium,Very High,Better
+946,Very High,High,Better
+947,Very High,Medium,Better
+948,Very High,Very High,Better
+949,Low,Medium,Better
+950,Medium,Very High,Best
+951,High,Very High,Best
+952,Medium,Medium,Better
+953,High,Very High,Good
+954,Medium,Very High,Better
+955,High,Very High,Better
+956,High,Very High,Better
+957,Low,Very High,Best
+958,Very High,Very High,Better
+959,High,High,Better
+960,Very High,High,Better
+961,Very High,High,Better
+962,High,Very High,Good
+963,High,High,Good
+964,Very High,High,Better
+965,High,High,Bad
+966,Very High,High,Best
+967,Very High,Medium,Better
+968,Low,High,Good
+969,Medium,High,Best
+970,High,Medium,Better
+971,Medium,Low,Better
+972,Medium,Low,Best
+973,High,Medium,Better
+974,Very High,High,Better
+975,Medium,Very High,Good
+976,High,Medium,Bad
+977,High,Very High,Good
+978,Medium,Low,Better
+979,Low,Medium,Better
+980,High,Medium,Bad
+981,Very High,Very High,Good
+982,Very High,Very High,Better
+983,Very High,High,Bad
+984,Medium,Medium,Good
+985,High,High,Best
+986,Very High,Low,Better
+987,Low,Very High,Better
+988,High,Very High,Good
+989,Low,High,Better
+990,High,Very High,Good
+991,Medium,Medium,Better
+992,Very High,High,Best
+993,High,Low,Better
+994,Very High,Very High,Better
+995,Very High,Medium,Good
+996,Very High,Very High,Best
+997,Low,Low,Good
+998,High,Medium,Good
+999,Low,High,Better
+1000,Very High,Low,Better
+1001,High,High,Better
+1002,Medium,Medium,Better
+1003,Medium,Very High,Better
+1004,High,High,Better
+1005,Medium,Medium,Good
+1006,High,Low,Better
+1007,Very High,Medium,Good
+1008,High,Low,Better
+1009,Very High,High,Better
+1010,Low,High,Good
+1011,Medium,Very High,Better
+1012,Very High,Very High,Better
+1013,Medium,Medium,Better
+1014,Very High,High,Better
+1015,High,Low,Better
+1016,Low,Very High,Better
+1017,Low,High,Better
+1018,Medium,Medium,Better
+1019,High,Very High,Better
+1020,Very High,Low,Better
+1021,High,Medium,Good
+1022,High,Medium,Good
+1023,High,Very High,Better
+1024,Very High,Low,Better
+1025,High,Very High,Best
+1026,High,High,Better
+1027,Medium,Medium,Better
+1028,High,Low,Good
+1029,Medium,Low,Good
+1030,Medium,Very High,Better
+1031,Low,Medium,Better
+1032,Very High,Low,Good
+1033,Very High,Low,Bad
+1034,High,Very High,Better
+1035,Low,High,Good
+1036,Medium,Medium,Bad
+1037,High,High,Best
+1038,Low,High,Better
+1039,Very High,Medium,Better
+1040,Very High,Medium,Best
+1041,High,Very High,Better
+1042,Medium,High,Better
+1043,Medium,Medium,Good
+1044,Medium,High,Best
+1045,High,Medium,Better
+1046,Medium,Low,Better
+1047,Very High,Very High,Good
+1048,Low,Low,Better
+1049,High,Low,Better
+1050,Medium,Very High,Good
+1051,High,Very High,Better
+1052,Low,High,Better
+1053,Medium,High,Bad
+1054,Very High,Low,Better
+1055,Low,Low,Better
+1056,High,High,Best
+1057,Very High,Medium,Better
+1058,Low,Very High,Better
+1059,Very High,Very High,Good
+1060,Very High,Very High,Best
+1061,Very High,Very High,Best
+1062,High,High,Good
+1063,Medium,High,Better
+1064,Very High,Very High,Good
+1065,High,Very High,Better
+1066,Very High,High,Better
+1067,Very High,High,Better
+1068,High,Medium,Good
+1069,Low,Low,Better
+1070,Medium,High,Better
+1071,Very High,Medium,Better
+1072,Low,High,Better
+1073,Very High,Medium,Better
+1074,Very High,Very High,Good
+1075,High,Medium,Better
+1076,Very High,Low,Good
+1077,High,Very High,Better
+1078,Medium,Very High,Best
+1079,Medium,Medium,Better
+1080,Medium,Very High,Good
+1081,Very High,Medium,Better
+1082,Medium,High,Better
+1083,Medium,High,Better
+1084,High,Very High,Better
+1085,Very High,Low,Better
+1086,Very High,Low,Better
+1087,Very High,Medium,Better
+1088,Medium,Very High,Good
+1089,Medium,Very High,Good
+1090,Low,Low,Better
+1091,Medium,High,Good
+1092,Low,High,Better
+1093,Very High,Very High,Better
+1094,Medium,Low,Better
+1095,Very High,Low,Better
+1096,Low,Very High,Better
+1097,High,Medium,Bad
+1098,High,Medium,Better
+1099,High,Low,Best
+1100,High,Very High,Better
+1101,Very High,Very High,Good
+1102,Low,High,Good
+1103,High,Very High,Better
+1104,Medium,High,Better
+1105,Medium,High,Good
+1106,High,Very High,Better
+1107,High,Low,Better
+1108,Low,High,Better
+1109,Medium,Medium,Good
+1110,High,Very High,Better
+1111,Very High,High,Better
+1112,High,Medium,Best
+1113,Very High,Low,Better
+1114,Low,Low,Better
+1115,Very High,Medium,Better
+1116,Very High,Very High,Good
+1117,Low,High,Better
+1118,Medium,Very High,Best
+1119,Medium,Very High,Better
+1120,Medium,Very High,Better
+1121,Low,Medium,Better
+1122,Medium,Low,Bad
+1123,High,High,Good
+1124,High,Low,Best
+1125,Low,Medium,Better
+1126,Low,Very High,Good
+1127,Very High,High,Good
+1128,High,Low,Good
+1129,Low,Low,Good
+1130,High,Very High,Better
+1131,Very High,Low,Better
+1132,High,Very High,Good
+1133,Low,Low,Good
+1134,High,Very High,Better
+1135,Very High,Very High,Better
+1136,Very High,Very High,Better
+1137,Low,Very High,Better
+1138,Low,Low,Good
+1139,Low,High,Good
+1140,Very High,High,Better
+1141,Low,High,Better
+1142,Very High,Medium,Better
+1143,High,Medium,Better
+1144,Very High,Very High,Better
+1145,Medium,Low,Better
+1146,Very High,High,Better
+1147,High,High,Best
+1148,High,Low,Better
+1149,Medium,High,Good
+1150,Very High,Very High,Best
+1151,Very High,High,Best
+1152,Medium,Medium,Better
+1153,High,Medium,Better
+1154,Very High,Medium,Good
+1155,Very High,High,Good
+1156,Low,High,Better
+1157,Medium,High,Good
+1158,Very High,Medium,Better
+1159,Low,High,Better
+1160,Low,High,Better
+1161,Very High,Low,Good
+1162,Very High,Very High,Better
+1163,High,Medium,Bad
+1164,Very High,High,Better
+1165,Very High,High,Best
+1166,Medium,High,Better
+1167,Medium,Very High,Better
+1168,High,Medium,Better
+1169,Low,Very High,Good
+1170,Medium,Medium,Better
+1171,Low,Very High,Better
+1172,Medium,High,Better
+1173,High,Very High,Better
+1174,High,Very High,Better
+1175,Low,High,Good
+1176,Low,Very High,Good
+1177,Medium,Very High,Better
+1178,High,Low,Better
+1179,Very High,Very High,Good
+1180,Very High,Low,Good
+1181,Low,Very High,Better
+1182,Very High,Medium,Better
+1183,High,High,Good
+1184,Low,Very High,Best
+1185,Low,High,Good
+1186,Very High,High,Bad
+1187,Low,Medium,Better
+1188,Very High,High,Better
+1189,Very High,Very High,Good
+1190,High,Medium,Better
+1191,Very High,Low,Better
+1192,High,Very High,Better
+1193,Low,Very High,Better
+1194,Medium,High,Better
+1195,Medium,High,Good
+1196,Very High,High,Better
+1197,High,High,Better
+1198,High,High,Best
+1199,High,High,Better
+1200,High,Very High,Better
+1201,Very High,Medium,Better
+1202,Very High,Low,Bad
+1203,Very High,Low,Better
+1204,Medium,Very High,Good
+1205,Medium,Low,Better
+1206,Very High,High,Better
+1207,High,Very High,Better
+1208,Very High,Low,Better
+1209,Medium,Medium,Better
+1210,Very High,Medium,Good
+1211,Medium,High,Best
+1212,Medium,Very High,Bad
+1213,High,Medium,Better
+1214,Very High,High,Better
+1215,Very High,High,Better
+1216,Low,Medium,Better
+1217,Very High,Very High,Good
+1218,High,Low,Good
+1219,Very High,High,Better
+1220,Very High,High,Better
+1221,High,High,Good
+1222,Low,Medium,Better
+1223,Very High,High,Better
+1224,High,High,Good
+1225,Medium,Very High,Better
+1226,High,High,Better
+1227,Medium,Low,Better
+1228,Low,Medium,Good
+1229,Very High,Very High,Good
+1230,Low,Very High,Better
+1231,Very High,Very High,Better
+1232,Low,High,Good
+1233,High,Low,Better
+1234,Low,Medium,Better
+1235,High,Very High,Better
+1236,Medium,Low,Better
+1237,High,High,Good
+1238,Medium,Low,Better
+1239,High,Medium,Better
+1240,Low,Very High,Better
+1241,Medium,Low,Good
+1242,High,Very High,Better
+1243,Very High,Very High,Best
+1244,Very High,High,Better
+1245,Very High,Very High,Best
+1246,Medium,Very High,Good
+1247,Very High,High,Good
+1248,Low,High,Better
+1249,Very High,Very High,Better
+1250,Medium,Low,Best
+1251,High,Low,Better
+1252,High,Very High,Better
+1253,Very High,Low,Better
+1254,Low,High,Good
+1255,Very High,High,Better
+1256,High,Very High,Better
+1257,Medium,High,Better
+1258,Medium,High,Better
+1259,Medium,Medium,Better
+1260,Low,Very High,Better
+1261,Very High,Very High,Better
+1262,Low,High,Better
+1263,High,High,Good
+1264,Medium,Low,Good
+1265,High,Low,Better
+1266,High,Very High,Good
+1267,Low,Very High,Better
+1268,Medium,Low,Good
+1269,High,Low,Better
+1270,Very High,Very High,Good
+1271,Low,High,Best
+1272,Low,Very High,Better
+1273,Very High,Very High,Better
+1274,Medium,High,Good
+1275,Low,Low,Good
+1276,High,High,Better
+1277,Very High,High,Better
+1278,Medium,Medium,Better
+1279,Medium,Low,Better
+1280,Medium,Low,Good
+1281,Very High,High,Good
+1282,Low,High,Good
+1283,High,Medium,Better
+1284,High,Medium,Better
+1285,Medium,Medium,Better
+1286,Medium,Very High,Better
+1287,High,Very High,Better
+1288,High,Low,Better
+1289,Very High,Low,Best
+1290,Low,High,Best
+1291,Medium,Medium,Better
+1292,Very High,Very High,Good
+1293,Medium,High,Better
+1294,Low,Very High,Better
+1295,Medium,Very High,Better
+1296,Low,Medium,Better
+1297,Very High,Very High,Good
+1298,High,Low,Better
+1299,Very High,Very High,Better
+1300,High,Very High,Better
+1301,High,Very High,Better
+1302,High,Medium,Good
+1303,High,Very High,Bad
+1304,High,Medium,Good
+1305,High,Low,Good
+1306,Medium,High,Better
+1307,Low,High,Bad
+1308,Low,High,Good
+1309,Medium,High,Best
+1310,Very High,High,Good
+1311,Medium,Medium,Best
+1312,High,Low,Better
+1313,Very High,Low,Better
+1314,Very High,Very High,Better
+1315,Low,High,Better
+1316,High,Very High,Best
+1317,High,Very High,Better
+1318,Low,Medium,Good
+1319,High,High,Better
+1320,Very High,Very High,Better
+1321,Medium,Very High,Better
+1322,Low,Low,Good
+1323,Low,High,Better
+1324,Very High,Very High,Better
+1325,Medium,High,Better
+1326,High,Medium,Better
+1327,High,Very High,Better
+1328,High,Low,Better
+1329,Medium,Very High,Better
+1330,Low,Very High,Better
+1331,High,Very High,Best
+1332,Low,High,Good
+1333,High,Medium,Best
+1334,Medium,Medium,Better
+1335,Low,High,Better
+1336,Medium,High,Good
+1337,High,Medium,Good
+1338,Very High,Very High,Good
+1339,Very High,High,Good
+1340,High,Very High,Better
+1341,High,Low,Good
+1342,Medium,High,Better
+1343,High,Very High,Better
+1344,Medium,High,Better
+1345,High,High,Better
+1346,High,High,Better
+1347,Medium,Medium,Better
+1348,Low,Very High,Better
+1349,Very High,High,Best
+1350,Low,High,Better
+1351,High,Very High,Bad
+1352,Low,Low,Best
+1353,High,Very High,Good
+1354,Very High,High,Better
+1355,Low,High,Good
+1356,Very High,Very High,Best
+1357,Very High,Low,Better
+1358,Medium,Very High,Better
+1359,Very High,Low,Good
+1360,High,Low,Better
+1361,Medium,Medium,Better
+1362,Medium,Medium,Better
+1363,High,Medium,Better
+1364,Medium,High,Bad
+1365,Medium,Medium,Bad
+1366,Medium,Very High,Better
+1367,Very High,High,Better
+1368,Medium,High,Better
+1369,Medium,Medium,Good
+1370,High,Very High,Good
+1371,High,High,Better
+1372,High,Very High,Better
+1373,Very High,Medium,Bad
+1374,High,Very High,Bad
+1375,High,Very High,Bad
+1376,High,High,Good
+1377,High,Medium,Better
+1378,Low,High,Better
+1379,Medium,Very High,Better
+1380,Low,Very High,Best
+1381,High,High,Better
+1382,High,Medium,Good
+1383,High,Low,Best
+1384,Very High,Medium,Good
+1385,High,Low,Better
+1386,High,Low,Best
+1387,High,Low,Better
+1388,High,Very High,Best
+1389,Medium,Very High,Good
+1390,Medium,Low,Better
+1391,High,Very High,Better
+1392,High,Very High,Better
+1393,Very High,Medium,Better
+1394,Medium,Medium,Good
+1395,High,High,Good
+1396,Very High,Low,Better
+1397,Very High,Medium,Better
+1398,Very High,High,Better
+1399,High,Medium,Better
+1400,Very High,High,Good
+1401,Very High,Medium,Better
+1402,High,High,Better
+1403,Very High,Medium,Good
+1404,Medium,High,Better
+1405,Very High,Very High,Best
+1406,Low,Very High,Better
+1407,Medium,Low,Better
+1408,Medium,Medium,Better
+1409,High,High,Better
+1410,Very High,High,Better
+1411,Very High,Very High,Bad
+1412,High,Low,Better
+1413,Very High,Very High,Better
+1414,Very High,High,Best
+1415,High,Very High,Best
+1416,Medium,Low,Better
+1417,Medium,Very High,Good
+1418,Very High,Medium,Good
+1419,Medium,Very High,Better
+1420,Very High,Very High,Bad
+1421,Very High,Low,Better
+1422,Very High,Very High,Good
+1423,High,High,Better
+1424,Very High,High,Better
+1425,Medium,Medium,Bad
+1426,Very High,Low,Better
+1427,Very High,Very High,Better
+1428,High,Low,Good
+1429,High,High,Good
+1430,Very High,Very High,Better
+1431,Very High,Low,Better
+1432,Very High,Medium,Best
+1433,High,Medium,Better
+1434,Medium,Very High,Better
+1435,Low,High,Good
+1436,High,High,Better
+1437,High,Very High,Better
+1438,Low,Very High,Better
+1439,Medium,Very High,Better
+1440,High,High,Best
+1441,High,Very High,Good
+1442,High,Very High,Good
+1443,High,Very High,Better
+1444,Medium,High,Good
+1445,Very High,Very High,Good
+1446,High,Very High,Bad
+1447,Very High,Very High,Better
+1448,Low,Low,Best
+1449,Low,High,Best
+1450,High,Medium,Better
+1451,Very High,High,Bad
+1452,High,High,Better
+1453,High,Very High,Better
+1454,High,Low,Good
+1455,Low,Very High,Better
+1456,High,Very High,Better
+1457,Medium,High,Better
+1458,High,Very High,Good
+1459,Very High,Low,Better
+1460,High,Low,Good
+1461,Low,High,Better
+1462,Low,High,Better
+1463,High,High,Better
+1464,High,Very High,Better
+1465,Very High,Low,Better
+1466,Very High,Very High,Better
+1467,Low,High,Better
+1468,Very High,High,Better
+1469,Low,High,Better
+1470,High,Very High,Better
+1471,High,Medium,Best
+1472,Medium,Medium,Bad
+1473,Very High,Very High,Better
+1474,Very High,Low,Better
+1475,High,Medium,Good
+1476,High,High,Bad
+1477,Low,Medium,Better
+1478,Medium,Very High,Better
+1479,Medium,Low,Better
+1480,High,Very High,Better
+1481,Very High,Very High,Better
+1482,Very High,Low,Better
+1483,Low,Medium,Good
+1484,Very High,Very High,Good
+1485,High,Very High,Best
+1486,Very High,High,Best
+1487,Low,Very High,Better
+1488,Medium,Medium,Good
+1489,Low,Low,Better
+1490,High,Medium,Bad
+1491,Low,Medium,Good
+1492,High,High,Good
+1493,Medium,High,Better
+1494,Medium,Very High,Good
+1495,Medium,Very High,Better
+1496,Low,Low,Better
+1497,Very High,Very High,Better
+1498,Very High,High,Bad
+1499,Very High,Very High,Better
+1500,Low,Medium,Better
+1501,Very High,Very High,Better
+1502,High,Low,Better
+1503,High,Medium,Better
+1504,Very High,Medium,Good
+1505,Very High,Very High,Better
+1506,Medium,Very High,Good
+1507,High,Medium,Best
+1508,High,High,Better
+1509,High,Medium,Good
+1510,High,Very High,Better
+1511,Very High,Medium,Better
+1512,Very High,Medium,Better
+1513,Very High,High,Better
+1514,Medium,Low,Better
+1515,Medium,Very High,Good
+1516,High,Very High,Good
+1517,Medium,Medium,Better
+1518,Very High,High,Good
+1519,Low,Medium,Better
+1520,Very High,High,Better
+1521,High,Very High,Better
+1522,Low,Low,Better
+1523,Low,Low,Better
+1524,High,Very High,Bad
+1525,Very High,Medium,Better
+1526,High,Low,Better
+1527,High,Very High,Better
+1528,High,High,Better
+1529,High,Medium,Good
+1530,High,Medium,Good
+1531,High,Medium,Better
+1532,Very High,High,Better
+1533,Very High,Very High,Better
+1534,Low,Very High,Good
+1535,Low,Very High,Good
+1536,Very High,Very High,Better
+1537,High,High,Better
+1538,High,Very High,Better
+1539,Very High,High,Good
+1540,Medium,Very High,Good
+1541,Very High,High,Better
+1542,High,High,Best
+1543,High,Medium,Better
+1544,Very High,High,Good
+1545,High,Low,Good
+1546,Very High,Very High,Better
+1547,Medium,Very High,Good
+1548,Medium,Low,Good
+1549,Medium,Very High,Better
+1550,Very High,High,Better
+1551,Medium,Medium,Better
+1552,Very High,Very High,Good
+1553,High,Very High,Better
+1554,High,Very High,Good
+1555,Very High,Medium,Better
+1556,High,Medium,Better
+1557,High,Very High,Good
+1558,Very High,Medium,Better
+1559,Medium,High,Better
+1560,Low,Very High,Better
+1561,Very High,High,Good
+1562,High,High,Better
+1563,High,Medium,Better
+1564,Low,High,Bad
+1565,High,Low,Better
+1566,Very High,High,Best
+1567,High,High,Better
+1568,Low,Very High,Better
+1569,Low,Medium,Better
+1570,Very High,Very High,Better
+1571,Low,Very High,Better
+1572,Very High,High,Better
+1573,Very High,High,Better
+1574,Low,Very High,Good
+1575,Very High,High,Better
+1576,High,Low,Better
+1577,High,High,Best
+1578,Low,Medium,Better
+1579,Very High,Very High,Better
+1580,High,High,Better
+1581,High,Medium,Better
+1582,High,Medium,Better
+1583,Very High,Very High,Better
+1584,High,Medium,Better
+1585,Very High,Medium,Better
+1586,Medium,Very High,Better
+1587,Medium,High,Better
+1588,High,Very High,Good
+1589,Very High,High,Better
+1590,Low,Very High,Good
+1591,High,Very High,Better
+1592,Very High,High,Best
+1593,High,Medium,Better
+1594,High,Low,Better
+1595,Low,Medium,Better
+1596,Medium,High,Better
+1597,High,Very High,Better
+1598,Very High,Low,Good
+1599,Very High,Medium,Better
+1600,Medium,Low,Better
+1601,High,Medium,Good
+1602,Low,Medium,Better
+1603,Medium,High,Better
+1604,Low,Low,Good
+1605,High,High,Better
+1606,Medium,Low,Bad
+1607,Very High,Very High,Better
+1608,High,High,Better
+1609,Medium,Very High,Better
+1610,Medium,High,Better
+1611,Very High,Low,Better
+1612,Medium,High,Better
+1613,High,Low,Good
+1614,Medium,High,Better
+1615,Medium,Low,Better
+1616,High,Low,Better
+1617,Low,Low,Better
+1618,Very High,High,Better
+1619,Low,Very High,Good
+1620,Very High,Very High,Bad
+1621,Low,High,Better
+1622,High,Very High,Better
+1623,Low,Low,Bad
+1624,High,High,Good
+1625,Very High,Very High,Best
+1626,Low,Medium,Better
+1627,Very High,High,Good
+1628,Very High,Very High,Better
+1629,High,High,Better
+1630,Low,Very High,Bad
+1631,High,Very High,Bad
+1632,Medium,High,Better
+1633,High,Medium,Best
+1634,Low,Very High,Best
+1635,High,Low,Better
+1636,Low,Very High,Good
+1637,Medium,High,Better
+1638,High,Very High,Good
+1639,High,Low,Best
+1640,Low,Very High,Better
+1641,Low,High,Bad
+1642,Very High,High,Better
+1643,High,High,Better
+1644,Very High,High,Better
+1645,High,Very High,Better
+1646,High,Medium,Best
+1647,Medium,High,Best
+1648,Low,Very High,Better
+1649,Very High,Medium,Better
+1650,Very High,High,Better
+1651,Low,High,Better
+1652,Medium,Low,Better
+1653,Medium,High,Better
+1654,Medium,Very High,Good
+1655,High,High,Better
+1656,Medium,Very High,Better
+1657,Low,Medium,Better
+1658,Very High,Very High,Better
+1659,Medium,High,Better
+1660,Medium,High,Better
+1661,High,High,Better
+1662,Medium,Very High,Best
+1663,Very High,Low,Good
+1664,Very High,Medium,Best
+1665,Medium,High,Good
+1666,Very High,Very High,Best
+1667,Low,High,Better
+1668,High,Very High,Good
+1669,Medium,Medium,Better
+1670,High,Low,Better
+1671,Low,High,Better
+1672,Low,High,Better
+1673,Low,High,Better
+1674,Very High,Very High,Better
+1675,High,Very High,Bad
+1676,Medium,Very High,Best
+1677,Low,High,Good
+1678,Medium,High,Better
+1679,Low,Medium,Better
+1680,Very High,Low,Better
+1681,Very High,High,Better
+1682,Very High,Very High,Better
+1683,High,High,Better
+1684,Medium,Medium,Good
+1685,Very High,High,Better
+1686,Medium,Very High,Better
+1687,Low,Medium,Best
+1688,Very High,Medium,Better
+1689,Low,Medium,Better
+1690,Medium,High,Better
+1691,Low,High,Better
+1692,Medium,Low,Best
+1693,Medium,Very High,Better
+1694,Medium,Low,Bad
+1695,Low,Very High,Better
+1696,Low,Very High,Best
+1697,Low,High,Good
+1698,Very High,High,Good
+1699,Very High,Medium,Best
+1700,High,Very High,Better
+1701,Medium,Very High,Good
+1702,High,Low,Good
+1703,Very High,High,Better
+1704,Very High,Low,Bad
+1705,Low,High,Best
+1706,High,High,Better
+1707,High,Low,Better
+1708,High,High,Better
+1709,Very High,Very High,Best
+1710,Low,High,Better
+1711,High,High,Better
+1712,Low,Very High,Good
+1713,High,High,Better
+1714,Very High,Low,Best
+1715,Medium,Very High,Good
+1716,Low,Low,Better
+1717,High,Very High,Better
+1718,High,High,Better
+1719,Medium,High,Good
+1720,Medium,Very High,Better
+1721,High,Very High,Bad
+1722,High,Medium,Better
+1723,Medium,Medium,Better
+1724,Low,Very High,Better
+1725,Very High,High,Better
+1726,Low,Low,Better
+1727,High,High,Better
+1728,Low,Low,Best
+1729,Very High,Medium,Better
+1730,Very High,Very High,Better
+1731,Medium,Very High,Better
+1732,Medium,Medium,Better
+1733,Very High,Very High,Better
+1734,Very High,Very High,Better
+1735,Very High,High,Better
+1736,Very High,Medium,Best
+1737,Low,High,Better
+1738,Very High,High,Better
+1739,Very High,Very High,Good
+1740,Medium,High,Better
+1741,Medium,Very High,Good
+1742,High,Low,Better
+1743,High,Very High,Better
+1744,Very High,Low,Better
+1745,Very High,Low,Better
+1746,High,High,Better
+1747,Medium,Very High,Good
+1748,Low,Low,Better
+1749,Very High,Low,Good
+1750,Very High,High,Better
+1751,Very High,Medium,Better
+1752,Low,Medium,Better
+1753,Low,Low,Better
+1754,High,High,Best
+1755,Low,High,Better
+1756,Very High,High,Good
+1757,High,Very High,Good
+1758,High,High,Better
+1759,High,High,Better
+1760,Very High,Very High,Better
+1761,Medium,High,Better
+1762,Medium,Low,Best
+1763,High,Medium,Bad
+1764,High,Very High,Good
+1765,Very High,Very High,Good
+1766,Very High,Low,Bad
+1767,Very High,Medium,Better
+1768,Very High,Very High,Better
+1769,Very High,Low,Best
+1770,Low,Very High,Better
+1771,Very High,High,Bad
+1772,Medium,Low,Better
+1773,High,Low,Best
+1774,Very High,Very High,Good
+1775,High,Very High,Good
+1776,Medium,High,Better
+1777,Low,High,Better
+1778,Medium,High,Better
+1779,Very High,Very High,Better
+1780,Very High,Low,Better
+1781,Low,Low,Better
+1782,Very High,Very High,Better
+1783,Low,Very High,Better
+1784,Medium,High,Good
+1785,Very High,Low,Better
+1786,Medium,Very High,Better
+1787,Very High,Low,Better
+1788,High,Very High,Better
+1789,Very High,Low,Good
+1790,Low,Low,Better
+1791,High,Low,Better
+1792,Low,Very High,Good
+1793,Very High,High,Better
+1794,High,Medium,Better
+1795,High,Low,Better
+1796,Medium,Very High,Good
+1797,High,Low,Better
+1798,High,Medium,Better
+1799,Very High,High,Better
+1800,High,High,Better
+1801,Medium,Low,Better
+1802,High,High,Best
+1803,Low,Low,Better
+1804,High,Very High,Good
+1805,High,Medium,Better
+1806,High,High,Better
+1807,Very High,Medium,Better
+1808,Very High,High,Better
+1809,Very High,Very High,Better
+1810,High,High,Good
+1811,High,Medium,Better
+1812,High,High,Better
+1813,Low,High,Better
+1814,High,Very High,Good
+1815,Medium,High,Better
+1816,Medium,Medium,Good
+1817,Low,Low,Good
+1818,High,Very High,Better
+1819,High,Very High,Best
+1820,High,Very High,Good
+1821,Medium,Low,Better
+1822,High,Very High,Better
+1823,High,High,Best
+1824,Medium,Medium,Better
+1825,High,Very High,Bad
+1826,High,High,Better
+1827,Very High,Very High,Good
+1828,Low,High,Good
+1829,Very High,Medium,Good
+1830,Low,Low,Good
+1831,Low,Low,Better
+1832,High,Low,Good
+1833,Medium,Very High,Good
+1834,Medium,Very High,Good
+1835,Medium,Very High,Good
+1836,Low,Very High,Better
+1837,Very High,Low,Better
+1838,High,High,Good
+1839,High,Very High,Better
+1840,Very High,High,Better
+1841,Medium,Very High,Better
+1842,Very High,Very High,Bad
+1843,Low,Very High,Good
+1844,Medium,Very High,Better
+1845,Low,Low,Better
+1846,High,Low,Better
+1847,Very High,High,Better
+1848,Very High,Medium,Better
+1849,Very High,Very High,Better
+1850,High,Low,Best
+1851,High,Low,Better
+1852,Low,Very High,Good
+1853,Medium,Medium,Better
+1854,Medium,Medium,Better
+1855,High,Very High,Good
+1856,Very High,Very High,Better
+1857,Medium,High,Better
+1858,Low,Very High,Better
+1859,Very High,Medium,Better
+1860,High,Very High,Better
+1861,Very High,Very High,Better
+1862,Very High,Very High,Good
+1863,High,Very High,Better
+1864,Low,Medium,Better
+1865,Low,Low,Better
+1866,Very High,Very High,Better
+1867,Very High,Medium,Best
+1868,Low,Very High,Bad
+1869,Low,Very High,Better
+1870,Medium,Low,Better
+1871,Low,Very High,Better
+1872,Very High,Very High,Good
+1873,Low,Medium,Best
+1874,High,High,Good
+1875,Very High,Very High,Good
+1876,High,Very High,Good
+1877,Very High,Very High,Good
+1878,Medium,High,Best
+1879,Medium,Very High,Good
+1880,High,High,Better
+1881,Very High,Low,Bad
+1882,Medium,High,Better
+1883,Medium,Medium,Better
+1884,High,High,Better
+1885,High,Low,Better
+1886,High,Medium,Better
+1887,Medium,High,Best
+1888,Very High,Very High,Bad
+1889,Low,Medium,Good
+1890,Very High,High,Good
+1891,Very High,High,Good
+1892,Medium,Very High,Better
+1893,Very High,Low,Better
+1894,High,Medium,Better
+1895,High,Medium,Better
+1896,Low,Medium,Good
+1897,High,Low,Better
+1898,Very High,Low,Better
+1899,High,High,Better
+1900,Very High,Medium,Best
+1901,Low,Low,Better
+1902,Very High,Very High,Bad
+1903,Very High,Medium,Better
+1904,High,Low,Best
+1905,High,Very High,Better
+1906,Medium,Very High,Better
+1907,Low,High,Bad
+1908,High,Medium,Good
+1909,High,High,Better
+1910,High,High,Better
+1911,Very High,Very High,Better
+1912,Very High,High,Better
+1913,High,High,Best
+1914,High,High,Best
+1915,High,Very High,Better
+1916,Very High,Very High,Better
+1917,Low,High,Better
+1918,Medium,Medium,Good
+1919,High,High,Best
+1920,Low,Very High,Better
+1921,High,Low,Better
+1922,Very High,High,Better
+1923,Very High,Low,Better
+1924,Medium,Very High,Better
+1925,Very High,Very High,Better
+1926,Very High,Very High,Good
+1927,High,Medium,Better
+1928,Low,High,Best
+1929,High,Medium,Better
+1930,Very High,Low,Better
+1931,Very High,Very High,Better
+1932,Low,High,Better
+1933,Very High,High,Better
+1934,High,High,Good
+1935,Very High,High,Better
+1936,Very High,High,Better
+1937,High,Medium,Bad
+1938,High,Low,Better
+1939,Medium,Very High,Better
+1940,High,High,Better
+1941,High,High,Good
+1942,Medium,Low,Good
+1943,Very High,Low,Better
+1944,Medium,Medium,Better
+1945,Very High,Very High,Better
+1946,Medium,Low,Good
+1947,Low,High,Better
+1948,High,High,Better
+1949,Very High,High,Better
+1950,Very High,Very High,Better
+1951,Low,Very High,Better
+1952,Medium,Very High,Good
+1953,Very High,High,Better
+1954,Low,Very High,Better
+1955,High,Very High,Better
+1956,Low,Medium,Bad
+1957,High,Medium,Better
+1958,Medium,High,Better
+1959,Medium,Very High,Better
+1960,Medium,Low,Better
+1961,Low,Very High,Better
+1962,Very High,Very High,Better
+1963,Very High,High,Better
+1964,High,Low,Better
+1965,Very High,Low,Better
+1966,Medium,Very High,Good
+1967,Very High,Very High,Best
+1968,Very High,High,Better
+1969,Medium,Very High,Good
+1970,Medium,Very High,Bad
+1971,Medium,Medium,Better
+1972,High,Medium,Better
+1973,Low,High,Good
+1974,Low,Low,Better
+1975,High,High,Better
+1976,Very High,Medium,Better
+1977,High,High,Better
+1978,Medium,High,Good
+1979,Very High,Medium,Good
+1980,High,Low,Good
+1981,Low,High,Better
+1982,Very High,Very High,Better
+1983,High,High,Better
+1984,Low,High,Better
+1985,Very High,Very High,Good
+1986,High,Low,Best
+1987,High,Very High,Better
+1988,Very High,Very High,Better
+1989,High,Low,Good
+1990,Very High,Low,Better
+1991,Low,High,Best
+1992,Medium,Low,Good
+1993,Low,Low,Better
+1994,High,Low,Good
+1995,Medium,High,Better
+1996,High,High,Good
+1997,Low,Very High,Better
+1998,Low,High,Better
+1999,Very High,Medium,Better
+2000,High,High,Best
+2001,Medium,Low,Better
+2002,Very High,Very High,Better
+2003,Very High,Low,Better
+2004,Low,High,Better
+2005,Low,High,Good
+2006,Low,Very High,Good
+2007,Very High,Very High,Better
+2008,Very High,Very High,Best
+2009,Low,High,Good
+2010,Low,Medium,Better
+2011,Very High,Low,Better
+2012,Low,Medium,Better
+2013,Very High,High,Better
+2014,Very High,Medium,Better
+2015,High,Very High,Better
+2016,Low,Very High,Better
+2017,Medium,High,Better
+2018,Medium,Medium,Better
+2019,High,High,Better
+2020,High,Very High,Better
+2021,Very High,Medium,Good
+2022,Low,High,Better
+2023,Very High,Medium,Better
+2024,High,Low,Better
+2025,Low,Very High,Better
+2026,High,High,Best
+2027,Very High,Medium,Best
+2028,High,Medium,Good
+2029,Low,Very High,Better
+2030,High,Very High,Better
+2031,Low,Medium,Bad
+2032,Very High,Very High,Better
+2033,Very High,Medium,Better
+2034,Very High,High,Good
+2035,Very High,Medium,Good
+2036,Medium,Very High,Better
+2037,Medium,Very High,Good
+2038,High,High,Best
+2039,High,High,Better
+2040,High,High,Better
+2041,Low,Low,Better
+2042,Medium,Very High,Better
+2043,High,High,Good
+2044,High,Very High,Better
+2045,Very High,High,Better
+2046,Medium,High,Good
+2047,High,High,Bad
+2048,Very High,Low,Bad
+2049,Medium,High,Good
+2050,High,Low,Good
+2051,Medium,Low,Best
+2052,Very High,High,Better
+2053,Very High,Medium,Better
+2054,High,Very High,Good
+2055,Low,Very High,Better
+2056,High,High,Better
+2057,High,Very High,Bad
+2058,High,Medium,Best
+2059,Very High,Low,Better
+2060,Very High,Very High,Best
+2061,Low,High,Good
+2062,High,Low,Better
+2063,Very High,Low,Better
+2064,Medium,Very High,Better
+2065,High,Low,Better
+2066,Low,High,Good
+2067,Very High,Very High,Good
+2068,Low,High,Good
+2069,High,High,Better
+2070,Very High,High,Better
+2071,Medium,Very High,Good
+2072,High,Very High,Better
+2073,High,Low,Better
+2074,Very High,High,Better
+2075,Medium,High,Better
+2076,Low,Low,Bad
+2077,High,Low,Better
+2078,Medium,Medium,Better
+2079,Very High,Low,Better
+2080,Very High,Low,Better
+2081,Very High,Medium,Better
+2082,High,Low,Better
+2083,Very High,Medium,Bad
+2084,Medium,High,Good
+2085,High,High,Better
+2086,High,High,Good
+2087,Very High,Very High,Better
+2088,High,Very High,Better
+2089,Very High,Very High,Good
+2090,Very High,Low,Best
+2091,Medium,Very High,Better
+2092,High,Medium,Better
+2093,Very High,High,Better
+2094,High,Low,Better
+2095,Low,Very High,Better
+2096,Medium,Medium,Best
+2097,High,Very High,Better
+2098,Very High,Medium,Better
+2099,Low,Low,Better
+2100,High,Very High,Good
+2101,Low,Low,Good
+2102,Very High,High,Bad
+2103,Low,Very High,Better
+2104,Low,Medium,Best
+2105,Low,Very High,Better
+2106,Very High,Very High,Better
+2107,High,Low,Good
+2108,High,Low,Better
+2109,High,Very High,Better
+2110,High,Very High,Better
+2111,Low,High,Best
+2112,High,Medium,Good
+2113,Very High,Medium,Good
+2114,Low,High,Better
+2115,High,Very High,Better
+2116,Very High,Very High,Best
+2117,Very High,Very High,Good
+2118,High,High,Good
+2119,Medium,Medium,Better
+2120,Very High,High,Better
+2121,Medium,Very High,Better
+2122,Very High,High,Better
+2123,High,Very High,Better
+2124,High,Very High,Good
+2125,Low,Medium,Better
+2126,Very High,Medium,Better
+2127,Low,High,Bad
+2128,Very High,Medium,Better
+2129,High,Low,Better
+2130,Very High,Medium,Good
+2131,Very High,Very High,Good
+2132,High,Medium,Best
+2133,Very High,High,Good
+2134,High,Low,Good
+2135,High,Medium,Best
+2136,High,High,Better
+2137,Medium,Medium,Better
+2138,Very High,Very High,Best
+2139,High,Medium,Better
+2140,Low,Very High,Better
+2141,Very High,Very High,Better
+2142,Medium,High,Better
+2143,High,High,Better
+2144,Medium,High,Better
+2145,Very High,Low,Good
+2146,Very High,Medium,Good
+2147,High,Very High,Best
+2148,High,Medium,Better
+2149,High,Medium,Better
+2150,Low,High,Better
+2151,Very High,High,Better
+2152,High,Low,Better
+2153,Low,Very High,Better
+2154,Very High,High,Better
+2155,Very High,Low,Best
+2156,High,Very High,Better
+2157,Very High,Low,Better
+2158,Very High,Medium,Better
+2159,Medium,Medium,Good
+2160,Medium,Low,Better
+2161,Low,High,Better
+2162,Very High,High,Good
+2163,High,Medium,Better
+2164,Very High,Medium,Best
+2165,Low,Low,Best
+2166,High,High,Good
+2167,Very High,High,Better
+2168,Very High,Medium,Better
+2169,High,High,Better
+2170,Very High,Very High,Good
+2171,High,Very High,Better
+2172,High,Low,Better
+2173,High,High,Better
+2174,High,Medium,Better
+2175,Medium,Low,Better
+2176,High,Low,Best
+2177,Very High,Very High,Good
+2178,High,Low,Good
+2179,Medium,Medium,Better
+2180,Low,Low,Good
+2181,Very High,Very High,Better
+2182,High,High,Better
+2183,Very High,Medium,Good
+2184,Very High,Very High,Best
+2185,Very High,Very High,Better
+2186,Very High,Very High,Better
+2187,Low,High,Good
+2188,Very High,Medium,Better
+2189,Low,High,Better
+2190,Medium,High,Better
+2191,Medium,High,Better
+2192,High,Very High,Best
+2193,Very High,High,Good
+2194,Very High,High,Better
+2195,High,Very High,Best
+2196,High,Low,Better
+2197,Very High,High,Good
+2198,Low,Very High,Best
+2199,Medium,Medium,Better
+2200,Very High,Very High,Good
+2201,High,High,Better
+2202,Medium,Very High,Best
+2203,High,Medium,Good
+2204,High,High,Better
+2205,Low,High,Good
+2206,Very High,High,Good
+2207,Low,High,Bad
+2208,Very High,Very High,Better
+2209,Very High,High,Better
+2210,Low,Very High,Better
+2211,High,Low,Better
+2212,High,Low,Bad
+2213,Low,High,Better
+2214,High,Very High,Better
+2215,Low,Very High,Good
+2216,High,Low,Better
+2217,Medium,Low,Good
+2218,Low,Low,Better
+2219,High,Very High,Better
+2220,Very High,Very High,Good
+2221,Very High,Low,Better
+2222,Medium,Very High,Best
+2223,Low,Medium,Better
+2224,Medium,High,Better
+2225,Very High,Low,Better
+2226,Low,Medium,Better
+2227,Very High,Low,Better
+2228,Low,Medium,Best
+2229,Medium,Low,Best
+2230,Low,Very High,Good
+2231,High,Low,Good
+2232,Low,Very High,Good
+2233,Low,Low,Better
+2234,High,High,Bad
+2235,Low,Low,Best
+2236,Low,High,Best
+2237,Very High,High,Better
+2238,Very High,Very High,Good
+2239,Very High,Medium,Good
+2240,Medium,High,Good
+2241,High,High,Best
+2242,Low,Very High,Better
+2243,Low,Very High,Best
+2244,Low,Low,Best
+2245,High,Medium,Better
+2246,Medium,Low,Better
+2247,Very High,Medium,Better
+2248,Medium,Very High,Bad
+2249,Medium,Very High,Best
+2250,High,Low,Better
+2251,Low,High,Better
+2252,Very High,Medium,Better
+2253,Very High,Low,Better
+2254,High,High,Better
+2255,Very High,Medium,Good
+2256,Low,High,Good
+2257,High,High,Best
+2258,Very High,Medium,Good
+2259,Very High,Low,Better
+2260,Very High,Low,Better
+2261,Very High,High,Good
+2262,Low,Very High,Better
+2263,Low,High,Good
+2264,High,High,Good
+2265,Medium,High,Good
+2266,High,Medium,Better
+2267,Medium,Low,Good
+2268,Low,High,Best
+2269,Low,Medium,Bad
+2270,Low,Medium,Best
+2271,Very High,High,Better
+2272,Medium,Low,Good
+2273,Very High,Medium,Better
+2274,Medium,High,Good
+2275,High,High,Better
+2276,High,High,Best
+2277,Very High,High,Better
+2278,Low,Medium,Better
+2279,High,High,Good
+2280,High,Low,Good
+2281,Low,High,Bad
+2282,High,Low,Better
+2283,High,Low,Better
+2284,Very High,Medium,Better
+2285,High,Medium,Good
+2286,Very High,High,Better
+2287,High,Very High,Best
+2288,Medium,Very High,Better
+2289,Low,Low,Bad
+2290,Very High,Low,Best
+2291,Medium,Medium,Better
+2292,High,Medium,Best
+2293,Very High,Medium,Bad
+2294,Low,High,Better
+2295,Very High,Low,Bad
+2296,Very High,High,Better
+2297,Very High,High,Bad
+2298,High,Very High,Better
+2299,Medium,High,Better
+2300,High,Medium,Better
+2301,Low,Very High,Better
+2302,High,Low,Better
+2303,Very High,Medium,Better
+2304,Very High,Very High,Better
+2305,Very High,Very High,Bad
+2306,Low,Low,Best
+2307,Medium,High,Better
+2308,High,Very High,Better
+2309,High,Low,Better
+2310,Very High,Very High,Better
+2311,Low,Medium,Better
+2312,Medium,High,Better
+2313,Very High,Medium,Better
+2314,High,Very High,Good
+2315,High,High,Better
+2316,High,High,Good
+2317,Low,Low,Bad
+2318,Medium,Low,Better
+2319,High,High,Better
+2320,Very High,Low,Better
+2321,High,Medium,Better
+2322,Low,Low,Better
+2323,High,Very High,Better
+2324,High,Medium,Better
+2325,Very High,Low,Good
+2326,High,Low,Good
+2327,Low,Very High,Bad
+2328,High,Very High,Better
+2329,Medium,Very High,Good
+2330,Low,Very High,Better
+2331,High,Medium,Better
+2332,Medium,Medium,Best
+2333,Medium,High,Better
+2334,Medium,Low,Better
+2335,Low,High,Better
+2336,Very High,High,Better
+2337,Low,Very High,Best
+2338,High,High,Better
+2339,Very High,High,Better
+2340,Low,Low,Better
+2341,Very High,Very High,Better
+2342,Medium,High,Good
+2343,Very High,High,Good
+2344,Very High,Low,Better
+2345,Very High,Medium,Better
+2346,High,Very High,Good
+2347,Very High,Low,Bad
+2348,High,Medium,Better
+2349,Medium,High,Good
+2350,Medium,High,Better
+2351,Medium,Very High,Better
+2352,Medium,Very High,Good
+2353,Medium,Medium,Good
+2354,High,Low,Better
+2355,Low,Low,Better
+2356,Very High,Low,Better
+2357,High,High,Better
+2358,High,Very High,Better
+2359,High,Low,Good
+2360,Medium,Low,Better
+2361,Very High,Low,Better
+2362,Medium,Low,Better
+2363,Medium,Low,Good
+2364,High,Very High,Better
+2365,Medium,Very High,Best
+2366,Very High,High,Better
+2367,High,High,Better
+2368,Low,High,Better
+2369,High,High,Better
+2370,High,High,Good
+2371,Low,High,Bad
+2372,Very High,Very High,Better
+2373,Very High,High,Best
+2374,Very High,Low,Better
+2375,Medium,Medium,Bad
+2376,High,Very High,Good
+2377,Low,Very High,Better
+2378,High,Very High,Better
+2379,High,Very High,Good
+2380,Low,Very High,Better
+2381,Medium,High,Better
+2382,Very High,Very High,Good
+2383,Low,Low,Bad
+2384,High,High,Better
+2385,Medium,Low,Better
+2386,Very High,High,Better
+2387,Very High,Medium,Better
+2388,Low,Medium,Better
+2389,Very High,Low,Better
+2390,High,High,Better
+2391,Very High,Medium,Better
+2392,Low,Medium,Better
+2393,High,High,Better
+2394,Very High,High,Better
+2395,Very High,Low,Better
+2396,Medium,High,Better
+2397,High,High,Better
+2398,Very High,Very High,Best
+2399,Very High,Very High,Best
+2400,Low,Medium,Good
+2401,Very High,Very High,Better
+2402,Very High,Medium,Good
+2403,Low,Very High,Better
+2404,Very High,Low,Good
+2405,Very High,Medium,Better
+2406,Medium,Medium,Better
+2407,High,High,Better
+2408,Very High,High,Better
+2409,Very High,Low,Better
+2410,High,Very High,Better
+2411,Low,High,Good
+2412,High,Very High,Better
+2413,Very High,High,Better
+2414,Very High,High,Good
+2415,Medium,Very High,Better
+2416,Very High,High,Better
+2417,Very High,Medium,Better
+2418,Very High,Very High,Better
+2419,Low,Medium,Better
+2420,Medium,Very High,Best
+2421,High,Very High,Best
+2422,Medium,Medium,Better
+2423,High,Very High,Good
+2424,Medium,Very High,Better
+2425,High,Very High,Better
+2426,High,Very High,Better
+2427,Low,Very High,Best
+2428,Very High,Very High,Better
+2429,High,High,Better
+2430,Very High,High,Better
+2431,Very High,High,Better
+2432,High,Very High,Good
+2433,High,High,Good
+2434,Very High,High,Better
+2435,High,High,Bad
+2436,Very High,High,Best
+2437,Very High,Medium,Better
+2438,Low,High,Good
+2439,Medium,High,Best
+2440,High,Medium,Better
+2441,Medium,Low,Better
+2442,Medium,Low,Best
+2443,High,Medium,Better
+2444,Very High,High,Better
+2445,Medium,Very High,Good
+2446,High,Medium,Bad
+2447,High,Very High,Good
+2448,Medium,Low,Better
+2449,Low,Medium,Better
+2450,High,Medium,Bad
+2451,Very High,Very High,Good
+2452,Very High,Very High,Better
+2453,Very High,High,Bad
+2454,Medium,Medium,Good
+2455,High,High,Best
+2456,Very High,Low,Better
+2457,Low,Very High,Better
+2458,High,Very High,Good
+2459,Low,High,Better
+2460,High,Very High,Good
+2461,Medium,Medium,Better
+2462,Very High,High,Best
+2463,High,Low,Better
+2464,Very High,Very High,Better
+2465,Very High,Medium,Good
+2466,Very High,Very High,Best
+2467,Low,Low,Good
+2468,High,Medium,Good
+2469,Low,High,Better
+2470,Very High,Low,Better
+2471,High,High,Better
+2472,Medium,Medium,Better
+2473,Medium,Very High,Better
+2474,High,High,Better
+2475,Medium,Medium,Good
+2476,High,High,Better
+2477,Very High,Medium,Good
+2478,High,Low,Better
+2479,Very High,High,Better
+2480,Low,High,Good
+2481,Medium,Very High,Better
+2482,Very High,Very High,Better
+2483,Medium,Medium,Better
+2484,Very High,High,Better
+2485,High,Low,Better
+2486,Low,Very High,Better
+2487,Low,High,Better
+2488,Medium,Medium,Better
+2489,High,Very High,Better
+2490,Very High,Low,Better
+2491,High,Medium,Good
+2492,High,Medium,Good
+2493,High,Very High,Better
+2494,Very High,Low,Better
+2495,High,Very High,Best
+2496,High,High,Better
+2497,Medium,Medium,Better
+2498,High,Low,Good
+2499,Medium,Low,Good
+2500,Medium,Very High,Better
+2501,Low,Medium,Better
+2502,Very High,Low,Good
+2503,Very High,Low,Bad
+2504,High,Very High,Better
+2505,Low,High,Good
+2506,Medium,Medium,Bad
+2507,High,High,Best
+2508,Low,High,Better
+2509,Very High,Medium,Better
+2510,Very High,Medium,Best
+2511,High,Very High,Better
+2512,Medium,High,Better
+2513,Medium,Medium,Good
+2514,Medium,High,Best
+2515,High,Medium,Better
+2516,Medium,Low,Better
+2517,Very High,Very High,Good
+2518,Low,Low,Better
+2519,High,Low,Better
+2520,Medium,Very High,Good
+2521,High,Very High,Better
+2522,Low,High,Better
+2523,Medium,High,Bad
+2524,Very High,Low,Better
+2525,Low,Low,Better
+2526,High,High,Best
+2527,Very High,Medium,Better
+2528,Low,Very High,Better
+2529,Very High,Very High,Good
+2530,Very High,Very High,Best
+2531,Very High,Very High,Best
+2532,High,High,Good
+2533,Medium,High,Better
+2534,Very High,Very High,Good
+2535,High,Very High,Better
+2536,Very High,High,Better
+2537,Very High,High,Better
+2538,High,Medium,Good
+2539,Low,Low,Better
+2540,Medium,High,Better
+2541,Very High,Medium,Better
+2542,Low,High,Better
+2543,Very High,Medium,Better
+2544,Very High,Very High,Good
+2545,High,Medium,Better
+2546,Very High,Low,Good
+2547,Very High,Very High,Better
+2548,Medium,Very High,Best
+2549,Medium,Medium,Better
+2550,Medium,Very High,Good
+2551,Very High,Medium,Better
+2552,Medium,High,Better
+2553,Medium,High,Better
+2554,High,Very High,Better
+2555,Very High,Low,Better
+2556,Very High,Low,Better
+2557,Very High,Medium,Better
+2558,Medium,Very High,Good
+2559,Medium,Very High,Good
+2560,Low,Low,Better
+2561,Medium,High,Good
+2562,Low,High,Good
+2563,Very High,Very High,Better
+2564,Medium,Low,Better
+2565,Very High,Low,Better
+2566,Low,Very High,Better
+2567,High,Medium,Bad
+2568,High,Medium,Better
+2569,High,Low,Best
+2570,High,Very High,Better
+2571,Very High,Very High,Good
+2572,Low,High,Good
+2573,High,Very High,Better
+2574,Medium,High,Better
+2575,Medium,High,Good
+2576,High,Very High,Better
+2577,High,Low,Better
+2578,Low,High,Better
+2579,Medium,Medium,Good
+2580,High,Very High,Better
+2581,Very High,High,Better
+2582,High,Medium,Best
+2583,Very High,Low,Better
+2584,Low,Low,Better
+2585,Very High,Medium,Better
+2586,Very High,Very High,Good
+2587,Low,High,Better
+2588,Medium,Very High,Best
+2589,Medium,Very High,Better
+2590,Medium,Very High,Better
+2591,Low,Medium,Better
+2592,Medium,Low,Bad
+2593,High,High,Good
+2594,High,Low,Best
+2595,Low,Medium,Better
+2596,Low,Very High,Good
+2597,Very High,High,Good
+2598,High,Low,Good
+2599,Low,Low,Good
+2600,High,Very High,Better
+2601,Very High,Low,Better
+2602,High,Very High,Good
+2603,Low,Low,Good
+2604,High,Very High,Better
+2605,Very High,Very High,Better
+2606,Very High,Very High,Better
+2607,Low,Very High,Better
+2608,Low,Low,Good
+2609,Low,High,Good
+2610,Very High,High,Better
+2611,Low,High,Better
+2612,Very High,Medium,Better
+2613,High,Medium,Better
+2614,Very High,Very High,Better
+2615,Medium,Low,Better
+2616,Very High,High,Better
+2617,High,High,Best
+2618,High,Low,Better
+2619,Medium,High,Good
+2620,Very High,Very High,Best
+2621,Very High,High,Best
+2622,Medium,Medium,Better
+2623,High,Medium,Better
+2624,Very High,Medium,Good
+2625,Very High,High,Good
+2626,Low,High,Better
+2627,Medium,High,Good
+2628,Very High,Medium,Better
+2629,Low,High,Better
+2630,Low,High,Better
+2631,Very High,Low,Good
+2632,Very High,Very High,Better
+2633,High,Medium,Bad
+2634,Very High,High,Better
+2635,Very High,High,Best
+2636,Medium,High,Better
+2637,Medium,Very High,Better
+2638,High,Medium,Better
+2639,Low,Very High,Good
+2640,Medium,Medium,Better
+2641,Low,Very High,Better
+2642,Medium,High,Better
+2643,High,Very High,Better
+2644,High,Very High,Better
+2645,Low,High,Good
+2646,Low,Very High,Good
+2647,Medium,Very High,Better
+2648,High,Low,Better
+2649,Very High,Very High,Good
+2650,Very High,Low,Good
+2651,Low,Very High,Better
+2652,Very High,Medium,Better
+2653,High,High,Good
+2654,Low,Very High,Best
+2655,Low,High,Good
+2656,Very High,High,Bad
+2657,Low,Medium,Better
+2658,Very High,High,Better
+2659,Very High,Very High,Good
+2660,High,Medium,Better
+2661,Very High,Low,Better
+2662,High,Very High,Better
+2663,Low,Very High,Better
+2664,Medium,High,Better
+2665,Medium,Very High,Good
+2666,Very High,High,Better
+2667,High,High,Better
+2668,High,High,Best
+2669,High,High,Better
+2670,High,Very High,Better
+2671,Very High,Medium,Better
+2672,Very High,Low,Bad
+2673,Very High,Low,Better
+2674,Medium,Very High,Good
+2675,Medium,Low,Better
+2676,Very High,High,Better
+2677,High,Very High,Better
+2678,Very High,Low,Better
+2679,Medium,Medium,Better
+2680,Very High,Medium,Good
+2681,Medium,High,Best
+2682,Medium,Very High,Bad
+2683,High,Medium,Better
+2684,Very High,High,Better
+2685,Very High,High,Better
+2686,Low,Medium,Better
+2687,Very High,Very High,Good
+2688,High,Low,Good
+2689,Very High,High,Better
+2690,Very High,High,Better
+2691,High,High,Good
+2692,Low,Medium,Better
+2693,Very High,High,Better
+2694,Low,High,Good
+2695,Medium,Very High,Better
+2696,High,High,Better
+2697,Medium,Low,Better
+2698,Low,Medium,Good
+2699,Very High,Very High,Good
+2700,Low,Very High,Better
+2701,Very High,Very High,Better
+2702,Low,High,Good
+2703,High,Low,Better
+2704,Low,Medium,Better
+2705,High,Very High,Better
+2706,Medium,Low,Better
+2707,High,High,Good
+2708,Medium,Low,Better
+2709,High,Medium,Better
+2710,Low,Very High,Better
+2711,Medium,Low,Good
+2712,High,Very High,Better
+2713,Very High,Very High,Best
+2714,Very High,High,Better
+2715,Very High,Very High,Best
+2716,Medium,Very High,Good
+2717,Very High,High,Good
+2718,Low,High,Better
+2719,Very High,Very High,Better
+2720,Medium,Low,Best
+2721,High,Low,Better
+2722,High,Very High,Better
+2723,Very High,Low,Better
+2724,Low,High,Good
+2725,Very High,High,Better
+2726,High,Very High,Better
+2727,Medium,High,Better
+2728,Medium,High,Better
+2729,Medium,Medium,Better
+2730,Low,Very High,Better
+2731,Very High,Very High,Better
+2732,Low,High,Better
+2733,High,High,Good
+2734,Medium,Low,Good
+2735,High,Low,Better
+2736,High,Very High,Good
+2737,Low,Very High,Better
+2738,Medium,Low,Good
+2739,High,Low,Better
+2740,Very High,Very High,Good
+2741,Low,High,Best
+2742,Low,Very High,Better
+2743,Very High,Very High,Better
+2744,Medium,High,Good
+2745,Low,Low,Good
+2746,High,High,Better
+2747,Very High,High,Better
+2748,Medium,Medium,Better
+2749,Medium,Low,Better
+2750,Medium,Low,Good
+2751,Very High,High,Good
+2752,Low,High,Good
+2753,High,Medium,Better
+2754,High,Medium,Better
+2755,Medium,Medium,Better
+2756,Medium,Very High,Better
+2757,High,Very High,Better
+2758,High,Low,Better
+2759,Very High,Low,Best
+2760,Low,High,Best
+2761,Medium,Medium,Better
+2762,Very High,Very High,Good
+2763,Medium,High,Better
+2764,Low,Very High,Better
+2765,Medium,Very High,Better
+2766,Low,Medium,Better
+2767,Very High,Very High,Good
+2768,High,Low,Better
+2769,Very High,Very High,Better
+2770,High,Very High,Better
+2771,High,Very High,Better
+2772,High,Medium,Good
+2773,High,Very High,Bad
+2774,High,Medium,Good
+2775,High,Low,Good
+2776,Medium,High,Better
+2777,Low,High,Bad
+2778,Low,High,Good
+2779,Medium,High,Best
+2780,Very High,High,Good
+2781,Medium,Medium,Best
+2782,High,Low,Better
+2783,Very High,Low,Better
+2784,Very High,Very High,Better
+2785,Low,High,Better
+2786,High,Very High,Best
+2787,High,Very High,Better
+2788,Low,Medium,Good
+2789,High,High,Better
+2790,Very High,Very High,Better
+2791,Medium,Very High,Better
+2792,Low,Low,Good
+2793,Low,High,Better
+2794,Very High,Very High,Better
+2795,Medium,High,Better
+2796,High,Medium,Better
+2797,High,Very High,Better
+2798,High,Low,Better
+2799,Medium,Very High,Better
+2800,Low,Very High,Better
+2801,High,Very High,Best
+2802,Low,High,Good
+2803,High,Medium,Best
+2804,Medium,Medium,Better
+2805,Low,High,Better
+2806,Medium,High,Good
+2807,High,Medium,Good
+2808,Very High,Very High,Good
+2809,Very High,High,Good
+2810,High,Very High,Better
+2811,High,Low,Good
+2812,Medium,High,Better
+2813,High,Very High,Better
+2814,Medium,High,Better
+2815,High,High,Better
+2816,High,High,Better
+2817,Medium,Medium,Better
+2818,Low,Very High,Better
+2819,Very High,High,Best
+2820,Low,High,Better
+2821,High,Very High,Bad
+2822,Low,Low,Best
+2823,High,Very High,Good
+2824,Very High,High,Better
+2825,Low,High,Good
+2826,Very High,Very High,Best
+2827,Very High,Low,Better
+2828,Medium,Very High,Better
+2829,Very High,Low,Good
+2830,High,Low,Better
+2831,Medium,Medium,Better
+2832,Medium,Medium,Better
+2833,High,Medium,Better
+2834,Medium,High,Bad
+2835,Medium,Medium,Bad
+2836,Medium,Very High,Better
+2837,Very High,High,Better
+2838,Medium,High,Better
+2839,Medium,Medium,Good
+2840,High,Very High,Good
+2841,High,High,Better
+2842,High,Very High,Better
+2843,Very High,Medium,Bad
+2844,High,Very High,Bad
+2845,High,Very High,Bad
+2846,High,High,Good
+2847,High,Medium,Better
+2848,Low,High,Better
+2849,Medium,Very High,Better
+2850,Low,Very High,Best
+2851,High,High,Better
+2852,High,Medium,Good
+2853,High,Low,Best
+2854,Very High,Medium,Good
+2855,High,Low,Better
+2856,High,Low,Best
+2857,High,Low,Better
+2858,High,Very High,Best
+2859,Medium,Very High,Good
+2860,Medium,Low,Better
+2861,High,Very High,Better
+2862,High,Very High,Better
+2863,Very High,Medium,Better
+2864,Medium,Medium,Good
+2865,High,High,Good
+2866,Very High,Low,Better
+2867,Very High,Medium,Better
+2868,Very High,High,Better
+2869,High,Medium,Better
+2870,Very High,High,Good
+2871,Very High,Medium,Better
+2872,High,High,Better
+2873,Very High,Medium,Good
+2874,Medium,High,Better
+2875,Very High,High,Best
+2876,Low,Very High,Better
+2877,Medium,Low,Good
+2878,Medium,Medium,Better
+2879,High,High,Better
+2880,Very High,High,Better
+2881,Very High,Very High,Bad
+2882,High,Low,Better
+2883,Very High,Very High,Better
+2884,Very High,High,Best
+2885,High,Very High,Best
+2886,Medium,Low,Better
+2887,Medium,Very High,Good
+2888,Very High,Medium,Good
+2889,Medium,Very High,Better
+2890,Very High,Very High,Bad
+2891,Very High,Low,Better
+2892,Very High,Very High,Good
+2893,High,High,Better
+2894,Very High,High,Better
+2895,Medium,Medium,Bad
+2896,Very High,Low,Better
+2897,Very High,Very High,Better
+2898,High,Low,Better
+2899,High,High,Good
+2900,Very High,Very High,Better
+2901,Very High,Low,Better
+2902,Very High,Medium,Best
+2903,High,Medium,Better
+2904,Medium,Very High,Better
+2905,Low,High,Good
+2906,High,High,Better
+2907,High,Very High,Better
+2908,Low,Very High,Better
+2909,Medium,Very High,Better
+2910,High,High,Best
+2911,High,Very High,Good
+2912,High,Very High,Good
+2913,High,Very High,Better
+2914,Medium,High,Good
+2915,Very High,Very High,Good
+2916,High,Very High,Bad
+2917,Very High,Very High,Better
+2918,Low,Low,Best
+2919,Low,High,Best
+2920,High,Medium,Better
+2921,Very High,High,Bad
+2922,High,High,Better
+2923,High,Very High,Better
+2924,High,Low,Good
+2925,High,Very High,Better
+2926,High,Very High,Better
+2927,Medium,High,Better
+2928,High,Very High,Good
+2929,Very High,Low,Better
+2930,High,Low,Good
+2931,Low,High,Better
+2932,Low,High,Better
+2933,High,High,Better
+2934,High,Very High,Better
+2935,Very High,Low,Better
+2936,Very High,Very High,Better
+2937,Low,High,Better
+2938,Very High,Low,Better
+2939,Low,High,Better
+2940,High,Very High,Good
+2941,High,Medium,Best
+2942,Medium,Medium,Bad
+2943,Very High,Very High,Better
+2944,Very High,Low,Better
+2945,High,Medium,Good
+2946,Low,High,Bad
+2947,Low,Medium,Better
+2948,Medium,Very High,Better
+2949,Medium,Low,Better
+2950,High,Very High,Better
+2951,Very High,Very High,Better
+2952,Very High,Low,Better
+2953,Low,Medium,Good
+2954,Very High,Very High,Good
+2955,High,Very High,Best
+2956,Very High,High,Best
+2957,Low,Very High,Better
+2958,Medium,Medium,Good
+2959,Low,Low,Better
+2960,High,Medium,Bad
+2961,Low,Medium,Good
+2962,High,High,Good
+2963,Medium,High,Better
+2964,Medium,Very High,Good
+2965,Medium,Very High,Better
+2966,Low,Low,Better
+2967,Very High,Very High,Better
+2968,Very High,High,Bad
+2969,Very High,Very High,Better
+2970,Low,Medium,Better
+2971,Very High,Very High,Better
+2972,High,Low,Better
+2973,High,Medium,Better
+2974,Very High,Medium,Good
+2975,Very High,Very High,Better
+2976,Medium,Very High,Good
+2977,High,Medium,Best
+2978,High,High,Better
+2979,High,Medium,Good
+2980,High,Very High,Better
+2981,Very High,Medium,Better
+2982,Very High,Medium,Better
+2983,Very High,High,Better
+2984,Medium,Low,Better
+2985,Medium,Very High,Good
+2986,High,Very High,Good
+2987,Medium,Medium,Better
+2988,Very High,High,Good
+2989,Low,Medium,Better
+2990,Very High,High,Better
+2991,High,Very High,Better
+2992,Low,Low,Better
+2993,Low,Low,Better
+2994,High,Very High,Bad
+2995,Very High,Medium,Better
+2996,High,Low,Better
+2997,High,Very High,Better
+2998,High,High,Better
+2999,High,Medium,Good
+3000,High,Medium,Good
+3001,High,Medium,Better
+3002,Very High,High,Better
+3003,Very High,Very High,Better
+3004,Low,Very High,Good
+3005,Low,Very High,Good
+3006,Very High,Very High,Better
+3007,High,High,Better
+3008,High,Very High,Better
+3009,Very High,High,Good
+3010,Medium,Very High,Good
+3011,Very High,High,Better
+3012,High,High,Best
+3013,High,Medium,Better
+3014,Very High,High,Good
+3015,High,Low,Good
+3016,Very High,Very High,Better
+3017,Medium,Very High,Good
+3018,Medium,Low,Good
+3019,Medium,Very High,Better
+3020,Very High,High,Better
+3021,Medium,Medium,Better
+3022,Very High,Very High,Good
+3023,High,Very High,Better
+3024,High,Very High,Better
+3025,Very High,Medium,Better
+3026,High,Medium,Better
+3027,High,Very High,Good
+3028,Very High,Medium,Better
+3029,Medium,High,Better
+3030,Low,Very High,Better
+3031,Very High,High,Good
+3032,High,High,Better
+3033,High,Medium,Better
+3034,Low,High,Bad
+3035,High,Low,Better
+3036,Very High,High,Best
+3037,High,High,Better
+3038,Low,Very High,Better
+3039,Low,Medium,Better
+3040,Very High,Very High,Better
+3041,Low,Very High,Better
+3042,Very High,High,Better
+3043,Very High,High,Better
+3044,Low,Very High,Good
+3045,Very High,High,Better
+3046,High,Low,Better
+3047,High,High,Best
+3048,Low,Medium,Better
+3049,Very High,Very High,Better
+3050,High,High,Better
+3051,High,Medium,Better
+3052,High,Medium,Better
+3053,Very High,Very High,Better
+3054,High,Medium,Better
+3055,Very High,Medium,Better
+3056,Medium,Very High,Better
+3057,Medium,High,Better
+3058,High,Very High,Good
+3059,Very High,High,Better
+3060,Low,Very High,Good
+3061,High,Very High,Better
+3062,Very High,High,Best
+3063,High,Medium,Better
+3064,High,Low,Better
+3065,Low,Medium,Better
+3066,Medium,High,Better
+3067,High,Very High,Better
+3068,Very High,Low,Good
+3069,Very High,Medium,Better
+3070,Medium,Low,Better
+3071,High,Medium,Good
+3072,Low,Medium,Better
+3073,Medium,High,Better
+3074,Low,Low,Good
+3075,High,High,Better
+3076,Medium,Low,Bad
+3077,Very High,Very High,Better
+3078,High,High,Better
+3079,Medium,Very High,Better
+3080,Medium,High,Better
+3081,Very High,Low,Better
+3082,Medium,High,Better
+3083,High,Low,Good
+3084,Medium,High,Better
+3085,Medium,High,Better
+3086,High,Low,Better
+3087,Low,Low,Better
+3088,Very High,High,Better
+3089,Low,Very High,Good
+3090,Very High,Very High,Bad
+3091,Low,High,Better
+3092,High,Very High,Better
+3093,Low,Low,Bad
+3094,High,High,Good
+3095,Very High,Very High,Best
+3096,Low,Medium,Better
+3097,Very High,High,Good
+3098,Very High,Very High,Better
+3099,High,High,Better
+3100,Low,Very High,Bad
+3101,High,Very High,Bad
+3102,Medium,High,Better
+3103,High,Medium,Best
+3104,Low,Very High,Best
+3105,High,Low,Better
+3106,Low,Very High,Good
+3107,Medium,High,Better
+3108,High,Very High,Good
+3109,High,Low,Best
+3110,Low,Very High,Better
+3111,Low,High,Bad
+3112,Very High,High,Better
+3113,High,High,Better
+3114,High,High,Better
+3115,High,Very High,Better
+3116,High,Medium,Best
+3117,Medium,High,Best
+3118,Low,Very High,Better
+3119,Very High,Medium,Better
+3120,Very High,High,Better
+3121,Low,High,Better
+3122,Medium,Low,Better
+3123,Medium,High,Better
+3124,Medium,Very High,Good
+3125,High,High,Better
+3126,Medium,Very High,Better
+3127,Low,Medium,Better
+3128,Very High,Very High,Better
+3129,Medium,High,Better
+3130,Medium,High,Better
+3131,High,High,Better
+3132,Medium,Very High,Best
+3133,Very High,Low,Good
+3134,Very High,Medium,Best
+3135,Medium,High,Good
+3136,Very High,Very High,Best
+3137,Low,High,Better
+3138,High,Very High,Good
+3139,Medium,Medium,Better
+3140,High,Low,Better
+3141,Low,High,Better
+3142,Low,High,Better
+3143,Low,High,Better
+3144,Very High,Very High,Better
+3145,High,Very High,Bad
+3146,Medium,Very High,Best
+3147,Low,High,Good
+3148,Medium,Low,Better
+3149,Low,Medium,Better
+3150,Very High,Low,Better
+3151,Very High,High,Better
+3152,Very High,Very High,Better
+3153,High,High,Better
+3154,Medium,Medium,Good
+3155,Very High,High,Better
+3156,Medium,Very High,Better
+3157,Low,Medium,Best
+3158,Very High,Medium,Better
+3159,Low,Medium,Better
+3160,Medium,High,Better
+3161,Low,High,Better
+3162,Medium,Low,Best
+3163,Medium,Very High,Better
+3164,Medium,Low,Bad
+3165,Low,Very High,Better
+3166,Low,Very High,Best
+3167,Low,High,Good
+3168,Very High,High,Good
+3169,Very High,Medium,Best
+3170,High,Very High,Better
+3171,Medium,Very High,Good
+3172,High,Low,Good
+3173,Very High,High,Better
+3174,Very High,Low,Bad
+3175,Low,High,Best
+3176,High,High,Better
+3177,High,Low,Better
+3178,High,High,Better
+3179,Very High,Very High,Best
+3180,Low,High,Better
+3181,High,High,Better
+3182,Low,Very High,Good
+3183,High,High,Better
+3184,Very High,Low,Best
+3185,Medium,Very High,Good
+3186,Low,Low,Better
+3187,High,Very High,Better
+3188,High,High,Better
+3189,Medium,High,Good
+3190,Medium,Very High,Better
+3191,High,Very High,Bad
+3192,High,Medium,Best
+3193,Medium,Medium,Better
+3194,Low,Very High,Better
+3195,Very High,High,Better
+3196,Low,Low,Better
+3197,High,High,Better
+3198,Low,Low,Best
+3199,Very High,Medium,Better
+3200,Very High,Very High,Better
+3201,Medium,Very High,Better
+3202,Medium,Medium,Better
+3203,Very High,Very High,Better
+3204,Very High,Very High,Better
+3205,Very High,High,Better
+3206,Very High,Medium,Best
+3207,Low,High,Better
+3208,Very High,High,Better
+3209,Very High,Very High,Good
+3210,Medium,High,Better
+3211,Medium,Very High,Good
+3212,High,Low,Better
+3213,High,Very High,Better
+3214,Very High,Low,Better
+3215,Very High,Low,Better
+3216,High,High,Better
+3217,Medium,Very High,Good
+3218,Low,Low,Better
+3219,Very High,Low,Good
+3220,Very High,High,Better
+3221,Very High,Medium,Better
+3222,Low,Medium,Better
+3223,Low,Low,Better
+3224,High,High,Best
+3225,Low,High,Better
+3226,Very High,High,Good
+3227,High,Very High,Good
+3228,High,High,Better
+3229,High,High,Better
+3230,Very High,Very High,Better
+3231,Medium,High,Better
+3232,Medium,Low,Best
+3233,High,Medium,Bad
+3234,High,Very High,Good
+3235,Very High,Very High,Good
+3236,Very High,Low,Bad
+3237,Very High,Medium,Better
+3238,Very High,Very High,Better
+3239,Very High,Low,Best
+3240,Low,Very High,Better
+3241,Very High,High,Bad
+3242,Medium,Low,Better
+3243,High,Low,Best
+3244,Very High,Very High,Good
+3245,High,Very High,Good
+3246,Medium,High,Better
+3247,Low,High,Better
+3248,Medium,High,Better
+3249,Very High,Very High,Better
+3250,Very High,Low,Better
+3251,Low,Low,Better
+3252,Very High,Very High,Better
+3253,Low,Very High,Better
+3254,Medium,High,Good
+3255,Very High,Low,Good
+3256,Medium,Very High,Better
+3257,Very High,Low,Better
+3258,High,Very High,Better
+3259,Very High,Low,Good
+3260,Low,Low,Better
+3261,High,Low,Better
+3262,Low,Very High,Good
+3263,Very High,High,Better
+3264,High,Medium,Better
+3265,High,Low,Better
+3266,Medium,Very High,Good
+3267,High,Low,Better
+3268,High,Medium,Better
+3269,Very High,High,Better
+3270,High,High,Better
+3271,Medium,Low,Better
+3272,High,High,Best
+3273,Low,Low,Better
+3274,High,Very High,Good
+3275,High,Medium,Better
+3276,High,High,Better
+3277,Very High,Medium,Better
+3278,Very High,High,Better
+3279,Very High,Very High,Better
+3280,High,High,Good
+3281,High,Medium,Better
+3282,High,High,Better
+3283,Low,High,Better
+3284,High,Very High,Good
+3285,Medium,High,Better
+3286,Medium,Medium,Good
+3287,Low,Low,Good
+3288,High,Very High,Better
+3289,High,Very High,Best
+3290,High,Very High,Good
+3291,Medium,Low,Better
+3292,High,Very High,Better
+3293,High,High,Best
+3294,Medium,Medium,Better
+3295,High,High,Bad
+3296,High,High,Better
+3297,Very High,Very High,Good
+3298,Low,High,Good
+3299,Very High,Medium,Good
+3300,Low,Low,Good
+3301,Low,Low,Better
+3302,High,Low,Good
+3303,Medium,Very High,Good
+3304,Medium,Very High,Good
+3305,Medium,Very High,Good
+3306,Low,Very High,Better
+3307,Very High,Low,Better
+3308,High,High,Good
+3309,High,Very High,Better
+3310,Very High,High,Better
+3311,Medium,Very High,Better
+3312,Very High,Very High,Bad
+3313,Low,Very High,Good
+3314,Medium,Very High,Better
+3315,Low,Low,Better
+3316,High,Low,Better
+3317,Very High,High,Better
+3318,Very High,Medium,Good
+3319,Very High,Very High,Better
+3320,High,Low,Best
+3321,High,Low,Better
+3322,Low,Very High,Good
+3323,Medium,Medium,Better
+3324,Medium,Medium,Better
+3325,High,Very High,Good
+3326,Very High,Very High,Better
+3327,Medium,High,Better
+3328,Low,Very High,Better
+3329,Very High,Medium,Better
+3330,High,Very High,Better
+3331,Very High,Very High,Better
+3332,Very High,Very High,Good
+3333,High,Very High,Better
+3334,Low,Medium,Better
+3335,Low,Low,Better
+3336,Very High,Very High,Better
+3337,Very High,Medium,Best
+3338,Low,Very High,Bad
+3339,Low,Very High,Better
+3340,Medium,Low,Better
+3341,Low,Very High,Better
+3342,Very High,Very High,Good
+3343,Low,Medium,Best
+3344,High,High,Good
+3345,Very High,Very High,Good
+3346,High,Very High,Good
+3347,Very High,Very High,Good
+3348,Medium,High,Best
+3349,Medium,Very High,Good
+3350,High,High,Better
+3351,Very High,Low,Bad
+3352,Medium,High,Better
+3353,Medium,Medium,Better
+3354,High,High,Better
+3355,High,Low,Better
+3356,High,Medium,Better
+3357,Medium,High,Best
+3358,Very High,Very High,Bad
+3359,Low,Medium,Good
+3360,Very High,High,Good
+3361,Very High,High,Good
+3362,Medium,Very High,Better
+3363,Very High,Low,Better
+3364,High,Medium,Better
+3365,High,Medium,Better
+3366,Low,Medium,Good
+3367,High,Low,Better
+3368,Very High,Low,Better
+3369,High,High,Better
+3370,Very High,Medium,Best
+3371,Low,Low,Better
+3372,Very High,Very High,Bad
+3373,Very High,Medium,Better
+3374,High,Low,Best
+3375,High,Very High,Better
+3376,Medium,Very High,Better
+3377,Low,High,Bad
+3378,High,Medium,Good
+3379,High,Very High,Better
+3380,High,High,Better
+3381,Very High,Very High,Good
+3382,Very High,High,Better
+3383,High,High,Best
+3384,High,High,Best
+3385,High,Very High,Better
+3386,Very High,Very High,Better
+3387,High,High,Better
+3388,Medium,Medium,Good
+3389,High,High,Best
+3390,Low,Very High,Better
+3391,High,Low,Better
+3392,Very High,High,Better
+3393,Very High,Low,Better
+3394,Medium,Very High,Better
+3395,Very High,Very High,Better
+3396,Very High,Very High,Good
+3397,High,Medium,Better
+3398,Low,High,Best
+3399,High,Medium,Better
+3400,Very High,Low,Better
+3401,Very High,Very High,Better
+3402,Low,High,Better
+3403,Very High,High,Better
+3404,High,High,Good
+3405,Very High,High,Better
+3406,Very High,High,Better
+3407,High,Medium,Bad
+3408,High,Low,Better
+3409,Medium,Very High,Better
+3410,High,High,Better
+3411,High,High,Good
+3412,Medium,Low,Good
+3413,Very High,Low,Better
+3414,Medium,Medium,Better
+3415,Very High,Very High,Better
+3416,Medium,Low,Good
+3417,Low,High,Better
+3418,High,High,Better
+3419,Very High,High,Better
+3420,Very High,Very High,Better
+3421,Low,Very High,Better
+3422,Medium,Very High,Good
+3423,Very High,High,Best
+3424,Low,Very High,Better
+3425,High,Very High,Better
+3426,Low,Medium,Bad
+3427,High,Medium,Better
+3428,Medium,High,Better
+3429,Medium,Very High,Better
+3430,Medium,Low,Better
+3431,Low,Very High,Better
+3432,Very High,Very High,Better
+3433,Very High,High,Better
+3434,High,Low,Better
+3435,Very High,Low,Better
+3436,Medium,Very High,Good
+3437,Very High,Very High,Best
+3438,Very High,High,Better
+3439,Medium,Very High,Good
+3440,Medium,Very High,Bad
+3441,Medium,Medium,Better
+3442,High,Medium,Better
+3443,Low,High,Good
+3444,Low,Low,Better
+3445,High,High,Better
+3446,Very High,Medium,Better
+3447,High,High,Better
+3448,Medium,High,Good
+3449,Very High,Medium,Good
+3450,High,Low,Good
+3451,Low,High,Better
+3452,Very High,Very High,Better
+3453,High,High,Better
+3454,Low,High,Better
+3455,Very High,Very High,Good
+3456,High,Low,Best
+3457,High,Very High,Better
+3458,Very High,Very High,Better
+3459,High,Low,Good
+3460,Very High,Low,Better
+3461,Low,High,Best
+3462,Medium,Low,Good
+3463,Low,Low,Better
+3464,High,Low,Good
+3465,Medium,High,Better
+3466,High,High,Good
+3467,Low,Very High,Better
+3468,Low,High,Better
+3469,Very High,Medium,Better
+3470,High,High,Best
+3471,Medium,Low,Better
+3472,Very High,Very High,Better
+3473,Very High,Low,Better
+3474,Low,High,Better
+3475,Low,High,Good
+3476,Low,Very High,Good
+3477,Very High,Very High,Better
+3478,Very High,Very High,Best
+3479,Low,High,Good
+3480,Low,Medium,Better
+3481,Very High,Low,Better
+3482,Low,Medium,Better
+3483,Very High,High,Better
+3484,Very High,Medium,Better
+3485,High,Very High,Better
+3486,Low,Very High,Good
+3487,Medium,High,Better
+3488,Medium,Medium,Better
+3489,High,High,Better
+3490,High,Very High,Better
+3491,Very High,Medium,Good
+3492,Low,High,Better
+3493,Very High,Medium,Better
+3494,High,Low,Better
+3495,Low,Very High,Better
+3496,High,High,Best
+3497,Very High,Medium,Best
+3498,High,Medium,Good
+3499,Low,Very High,Better
+3500,High,Very High,Better
+3501,Low,Medium,Bad
+3502,Very High,Very High,Better
+3503,Very High,Medium,Better
+3504,Very High,High,Good
+3505,Very High,Medium,Good
+3506,Medium,Very High,Better
+3507,Medium,Very High,Good
+3508,High,High,Best
+3509,High,High,Better
+3510,High,High,Better
+3511,Low,Low,Better
+3512,Medium,Very High,Better
+3513,High,High,Good
+3514,High,Very High,Better
+3515,Very High,High,Better
+3516,Medium,High,Good
+3517,High,High,Bad
+3518,Very High,Low,Bad
+3519,Medium,High,Good
+3520,High,Low,Good
+3521,Medium,Low,Best
+3522,Very High,High,Better
+3523,Very High,Medium,Better
+3524,High,Very High,Good
+3525,Low,Very High,Better
+3526,High,High,Better
+3527,High,Very High,Bad
+3528,High,Medium,Best
+3529,Very High,Low,Better
+3530,Very High,Very High,Best
+3531,Low,High,Good
+3532,High,Low,Better
+3533,Very High,Low,Better
+3534,High,Very High,Better
+3535,High,Low,Better
+3536,Low,High,Good
+3537,Very High,Very High,Good
+3538,Low,High,Good
+3539,High,High,Better
+3540,Very High,High,Better
+3541,Medium,Very High,Good
+3542,High,Very High,Better
+3543,High,Low,Better
+3544,Very High,High,Better
+3545,Medium,High,Better
+3546,Low,Low,Bad
+3547,High,Low,Better
+3548,Medium,Medium,Better
+3549,Very High,Low,Better
+3550,Very High,Low,Better
+3551,Very High,Medium,Better
+3552,High,Low,Better
+3553,Very High,Medium,Bad
+3554,Medium,High,Good
+3555,High,High,Better
+3556,High,High,Good
+3557,Very High,Very High,Better
+3558,High,Very High,Better
+3559,Very High,Very High,Good
+3560,Very High,Low,Best
+3561,Medium,Very High,Better
+3562,High,Medium,Better
+3563,Very High,High,Better
+3564,High,Low,Better
+3565,Low,Very High,Better
+3566,Medium,Medium,Best
+3567,High,Very High,Better
+3568,Very High,Medium,Better
+3569,Low,Low,Better
+3570,High,Very High,Good
+3571,Low,Low,Good
+3572,Very High,High,Bad
+3573,Low,Very High,Better
+3574,Low,Medium,Best
+3575,Low,Very High,Better
+3576,Very High,Very High,Better
+3577,High,Low,Good
+3578,High,Low,Better
+3579,High,Very High,Better
+3580,High,Very High,Better
+3581,Low,High,Best
+3582,High,Medium,Good
+3583,Very High,Medium,Good
+3584,Low,High,Better
+3585,High,Very High,Better
+3586,Very High,Very High,Best
+3587,Very High,Very High,Good
+3588,High,High,Good
+3589,Medium,Medium,Better
+3590,Very High,High,Better
+3591,Medium,Very High,Better
+3592,Very High,High,Better
+3593,High,Very High,Better
+3594,High,Very High,Good
+3595,Low,Medium,Better
+3596,Very High,Medium,Better
+3597,Low,High,Bad
+3598,Very High,Medium,Better
+3599,High,Low,Better
+3600,Very High,Medium,Good
+3601,Very High,Very High,Good
+3602,High,Medium,Best
+3603,Very High,High,Good
+3604,High,Low,Good
+3605,High,Medium,Best
+3606,High,High,Better
+3607,Medium,Medium,Better
+3608,Very High,Very High,Best
+3609,High,Medium,Better
+3610,Low,Very High,Better
+3611,Very High,Very High,Better
+3612,Medium,High,Good
+3613,High,High,Better
+3614,Medium,High,Better
+3615,Very High,Low,Good
+3616,Very High,Medium,Good
+3617,High,Very High,Best
+3618,Medium,Medium,Better
+3619,High,Medium,Better
+3620,Low,High,Better
+3621,Very High,High,Better
+3622,High,Low,Better
+3623,Low,Very High,Better
+3624,Very High,High,Better
+3625,Very High,Low,Best
+3626,High,Very High,Better
+3627,Very High,Low,Better
+3628,Very High,Medium,Better
+3629,Medium,Medium,Good
+3630,Medium,Low,Better
+3631,Low,High,Better
+3632,Very High,High,Good
+3633,High,Medium,Better
+3634,Very High,Medium,Best
+3635,Low,Low,Best
+3636,High,High,Good
+3637,Very High,High,Better
+3638,Very High,Medium,Better
+3639,High,High,Better
+3640,Very High,Very High,Good
+3641,High,Very High,Better
+3642,High,Low,Better
+3643,High,High,Better
+3644,High,Medium,Better
+3645,Medium,Low,Better
+3646,High,Low,Best
+3647,Very High,Very High,Good
+3648,High,Low,Good
+3649,Medium,Medium,Better
+3650,Low,Low,Good
+3651,Very High,Very High,Better
+3652,High,Very High,Better
+3653,Very High,Medium,Good
+3654,Very High,Very High,Better
+3655,Very High,Very High,Better
+3656,Very High,Very High,Better
+3657,Low,High,Good
+3658,Very High,Medium,Better
+3659,Low,High,Better
+3660,Medium,High,Better
+3661,Medium,High,Better
+3662,High,Very High,Best
+3663,Very High,High,Good
+3664,Very High,High,Better
+3665,High,Very High,Best
+3666,High,Low,Better
+3667,Very High,High,Good
+3668,Low,Very High,Best
+3669,Medium,Medium,Better
+3670,Very High,Very High,Good
+3671,High,High,Better
+3672,Medium,Very High,Best
+3673,High,Medium,Good
+3674,High,High,Better
+3675,Low,High,Good
+3676,Very High,High,Good
+3677,Low,High,Bad
+3678,Very High,Very High,Better
+3679,Very High,High,Better
+3680,Low,Very High,Better
+3681,High,Low,Better
+3682,High,Low,Bad
+3683,Low,High,Better
+3684,High,Very High,Better
+3685,Low,Very High,Good
+3686,High,Low,Better
+3687,Medium,Low,Good
+3688,Low,Low,Better
+3689,High,Very High,Better
+3690,Very High,Very High,Good
+3691,Very High,Low,Better
+3692,Medium,Very High,Best
+3693,Low,Medium,Better
+3694,Medium,High,Better
+3695,Very High,Low,Better
+3696,Low,Medium,Best
+3697,Very High,Low,Better
+3698,Low,Medium,Best
+3699,Medium,Low,Best
+3700,Low,Very High,Good
+3701,High,Low,Good
+3702,Low,Very High,Good
+3703,Low,Low,Better
+3704,High,High,Bad
+3705,Low,Low,Best
+3706,Low,High,Best
+3707,Very High,High,Better
+3708,Very High,Very High,Good
+3709,Very High,Medium,Good
+3710,Medium,High,Good
+3711,High,High,Best
+3712,Low,Very High,Better
+3713,Low,Very High,Best
+3714,Low,Low,Best
+3715,High,Medium,Better
+3716,Medium,Low,Better
+3717,Very High,Medium,Better
+3718,Medium,Very High,Bad
+3719,Medium,Very High,Best
+3720,High,Low,Better
+3721,Low,High,Better
+3722,Very High,Medium,Better
+3723,Very High,Low,Better
+3724,High,High,Better
+3725,Very High,Medium,Good
+3726,Low,High,Good
+3727,High,High,Best
+3728,Very High,Medium,Good
+3729,Very High,Low,Better
+3730,Very High,Low,Better
+3731,Very High,High,Good
+3732,Low,Very High,Better
+3733,Low,High,Good
+3734,High,High,Good
+3735,Medium,High,Good
+3736,High,Medium,Better
+3737,Medium,Low,Good
+3738,Low,High,Best
+3739,Low,Medium,Bad
+3740,Low,Medium,Best
+3741,Very High,High,Better
+3742,Medium,Low,Good
+3743,Very High,Medium,Better
+3744,Medium,High,Good
+3745,High,High,Better
+3746,High,High,Best
+3747,Very High,High,Better
+3748,Low,Medium,Better
+3749,High,High,Good
+3750,High,Low,Good
+3751,Low,High,Bad
+3752,High,Low,Better
+3753,High,Low,Better
+3754,Very High,Medium,Better
+3755,High,Medium,Good
+3756,Very High,High,Better
+3757,High,Very High,Best
+3758,Medium,Very High,Better
+3759,Low,Low,Bad
+3760,Very High,Low,Best
+3761,Medium,Medium,Better
+3762,High,Medium,Best
+3763,Very High,Medium,Bad
+3764,Low,High,Better
+3765,Very High,Low,Bad
+3766,Very High,High,Better
+3767,Very High,High,Bad
+3768,High,Very High,Better
+3769,Medium,High,Better
+3770,High,Medium,Better
+3771,Low,Very High,Better
+3772,High,Low,Better
+3773,Very High,Medium,Better
+3774,Very High,Very High,Better
+3775,Very High,Very High,Bad
+3776,Low,Low,Best
+3777,Medium,High,Better
+3778,High,High,Better
+3779,High,Low,Better
+3780,Very High,Very High,Better
+3781,Low,Medium,Better
+3782,Medium,High,Better
+3783,Very High,Medium,Better
+3784,High,Very High,Good
+3785,High,High,Better
+3786,High,High,Good
+3787,Low,Low,Bad
+3788,Medium,Low,Better
+3789,High,High,Better
+3790,Very High,Low,Better
+3791,High,Medium,Better
+3792,Low,Low,Better
+3793,High,Very High,Better
+3794,High,Medium,Better
+3795,Very High,Low,Good
+3796,High,Low,Good
+3797,Low,Very High,Bad
+3798,High,Very High,Better
+3799,Medium,Very High,Good
+3800,Low,Very High,Better
+3801,High,Medium,Better
+3802,Medium,Medium,Best
+3803,Medium,High,Better
+3804,Medium,Low,Better
+3805,Low,High,Better
+3806,Very High,High,Better
+3807,Low,Very High,Best
+3808,High,High,Better
+3809,Very High,High,Better
+3810,Low,Low,Better
+3811,Very High,Very High,Better
+3812,Medium,High,Good
+3813,Very High,High,Good
+3814,Very High,Low,Better
+3815,Very High,Medium,Better
+3816,High,Very High,Good
+3817,Very High,Low,Bad
+3818,High,Medium,Better
+3819,Medium,High,Good
+3820,Medium,High,Better
+3821,Medium,Very High,Better
+3822,Medium,Very High,Good
+3823,Medium,Medium,Good
+3824,High,Low,Better
+3825,Low,Low,Better
+3826,Very High,Low,Better
+3827,High,High,Better
+3828,High,Very High,Better
+3829,High,Low,Good
+3830,Medium,Low,Better
+3831,Very High,Low,Better
+3832,Medium,Low,Better
+3833,Medium,Low,Good
+3834,High,Very High,Better
+3835,Medium,Very High,Best
+3836,Very High,High,Better
+3837,High,High,Better
+3838,Low,High,Better
+3839,High,High,Better
+3840,High,High,Good
+3841,Low,High,Bad
+3842,Very High,Very High,Better
+3843,Very High,High,Best
+3844,Very High,Low,Better
+3845,Medium,Medium,Bad
+3846,High,Very High,Good
+3847,Low,Very High,Better
+3848,High,Very High,Better
+3849,Low,Very High,Good
+3850,Low,Very High,Better
+3851,Medium,High,Better
+3852,Very High,Very High,Good
+3853,Low,Low,Bad
+3854,High,High,Better
+3855,Medium,Low,Better
+3856,Very High,High,Better
+3857,Very High,Medium,Better
+3858,Low,Medium,Better
+3859,Very High,Low,Better
+3860,High,High,Better
+3861,Very High,Medium,Better
+3862,Low,Medium,Better
+3863,High,High,Better
+3864,Very High,High,Better
+3865,Very High,Low,Better
+3866,Medium,High,Better
+3867,High,High,Better
+3868,Very High,Very High,Best
+3869,Very High,Very High,Best
+3870,Low,Medium,Good
+3871,Very High,Very High,Better
+3872,Very High,Medium,Good
+3873,Low,Very High,Better
+3874,Very High,Low,Good
+3875,Very High,Medium,Better
+3876,Medium,Medium,Better
+3877,High,High,Better
+3878,Very High,High,Better
+3879,Very High,Low,Better
+3880,High,Very High,Better
+3881,Low,High,Good
+3882,High,Very High,Better
+3883,Very High,High,Better
+3884,Very High,High,Good
+3885,Medium,Very High,Better
+3886,Very High,High,Better
+3887,Very High,Medium,Better
+3888,Very High,Very High,Better
+3889,Low,Medium,Better
+3890,Medium,Very High,Best
+3891,High,Very High,Best
+3892,Medium,Medium,Better
+3893,High,Very High,Good
+3894,Medium,Very High,Better
+3895,High,Very High,Better
+3896,High,Very High,Better
+3897,Low,Very High,Best
+3898,Very High,Very High,Better
+3899,High,High,Better
+3900,Very High,High,Better
+3901,Very High,High,Better
+3902,High,Very High,Good
+3903,High,High,Good
+3904,Very High,High,Better
+3905,High,High,Bad
+3906,Very High,High,Best
+3907,Very High,Medium,Better
+3908,Low,High,Good
+3909,Medium,High,Best
+3910,High,Medium,Better
+3911,Medium,Low,Better
+3912,Medium,Low,Best
+3913,High,Medium,Better
+3914,Very High,High,Better
+3915,Medium,Very High,Good
+3916,High,Medium,Bad
+3917,High,Very High,Good
+3918,Medium,Low,Better
+3919,Low,Medium,Better
+3920,High,Medium,Bad
+3921,Very High,Very High,Good
+3922,Very High,Very High,Better
+3923,Very High,High,Bad
+3924,Medium,Medium,Good
+3925,High,High,Best
+3926,Very High,Low,Better
+3927,Low,Very High,Better
+3928,High,Very High,Good
+3929,Low,High,Better
+3930,High,Very High,Good
+3931,Medium,Medium,Better
+3932,Very High,High,Best
+3933,High,Low,Better
+3934,Very High,Very High,Better
+3935,Very High,Medium,Good
+3936,Very High,Very High,Best
+3937,Low,Low,Good
+3938,High,Medium,Good
+3939,Low,High,Better
+3940,Very High,Low,Better
+3941,High,High,Better
+3942,Medium,Medium,Better
+3943,Medium,Very High,Better
+3944,High,High,Better
+3945,Medium,Medium,Good
+3946,High,Low,Better
+3947,Very High,Medium,Good
+3948,High,Low,Better
+3949,Very High,High,Better
+3950,Low,High,Good
+3951,Medium,Very High,Better
+3952,Very High,Very High,Better
+3953,Medium,Medium,Better
+3954,Very High,High,Better
+3955,High,Low,Better
+3956,Low,Very High,Better
+3957,Low,High,Better
+3958,Medium,Medium,Better
+3959,High,Very High,Better
+3960,Very High,Low,Better
+3961,High,Medium,Good
+3962,High,Medium,Good
+3963,High,Very High,Better
+3964,Very High,Low,Better
+3965,High,Very High,Best
+3966,High,High,Better
+3967,Medium,Medium,Better
+3968,High,Low,Good
+3969,Medium,Low,Good
+3970,Medium,Very High,Better
+3971,Low,Medium,Better
+3972,Very High,Low,Good
+3973,Very High,Low,Bad
+3974,High,Very High,Better
+3975,Low,High,Good
+3976,Medium,Medium,Bad
+3977,High,High,Best
+3978,Low,High,Better
+3979,Very High,Medium,Better
+3980,Very High,Medium,Best
+3981,High,Very High,Better
+3982,Medium,High,Better
+3983,Medium,Medium,Good
+3984,Medium,High,Best
+3985,High,Medium,Better
+3986,Medium,Low,Better
+3987,Very High,Very High,Good
+3988,Low,Low,Better
+3989,High,Low,Better
+3990,Medium,Very High,Good
+3991,High,Very High,Better
+3992,Low,High,Better
+3993,Medium,High,Bad
+3994,Very High,Low,Better
+3995,Low,Low,Better
+3996,High,High,Best
+3997,Very High,Medium,Better
+3998,Low,Very High,Better
+3999,Very High,Very High,Good
+4000,Very High,Very High,Best
+4001,Very High,Very High,Best
+4002,High,High,Good
+4003,Medium,High,Better
+4004,Very High,Very High,Good
+4005,High,Very High,Better
+4006,Very High,High,Better
+4007,Very High,High,Better
+4008,High,Medium,Good
+4009,Low,Low,Better
+4010,Medium,High,Better
+4011,Very High,Medium,Better
+4012,Low,High,Better
+4013,Very High,Medium,Better
+4014,Very High,Very High,Good
+4015,High,Medium,Better
+4016,Very High,Low,Good
+4017,Very High,Very High,Better
+4018,Medium,Very High,Best
+4019,Medium,Medium,Better
+4020,Medium,Very High,Good
+4021,Very High,Medium,Better
+4022,Medium,High,Better
+4023,Medium,High,Better
+4024,High,Very High,Better
+4025,Very High,Low,Better
+4026,Very High,Low,Better
+4027,Very High,Medium,Better
+4028,Medium,Very High,Good
+4029,Medium,Very High,Good
+4030,Low,High,Better
+4031,Medium,High,Good
+4032,Low,High,Good
+4033,Very High,Very High,Better
+4034,Medium,Low,Better
+4035,Very High,Low,Better
+4036,Low,Very High,Better
+4037,High,Medium,Bad
+4038,High,Medium,Better
+4039,High,Low,Best
+4040,High,Very High,Better
+4041,Very High,Very High,Good
+4042,Low,High,Good
+4043,High,Very High,Better
+4044,Medium,High,Better
+4045,Medium,High,Good
+4046,High,Very High,Better
+4047,High,Low,Better
+4048,Low,High,Better
+4049,Medium,Medium,Good
+4050,High,Very High,Better
+4051,Very High,High,Better
+4052,High,Medium,Best
+4053,Very High,Low,Better
+4054,Low,Low,Better
+4055,Very High,Medium,Better
+4056,Very High,Very High,Good
+4057,Low,High,Better
+4058,Medium,Very High,Best
+4059,Medium,Very High,Better
+4060,Medium,Very High,Better
+4061,Low,Medium,Better
+4062,Medium,Low,Bad
+4063,High,High,Good
+4064,High,Low,Best
+4065,Low,Medium,Better
+4066,Low,Very High,Good
+4067,Very High,High,Good
+4068,High,Low,Good
+4069,Low,Low,Good
+4070,High,Very High,Better
+4071,Very High,Low,Better
+4072,High,Very High,Good
+4073,Low,Low,Good
+4074,High,Very High,Better
+4075,Very High,Very High,Better
+4076,Very High,Very High,Better
+4077,Low,Very High,Better
+4078,Low,Low,Good
+4079,Low,High,Good
+4080,Very High,High,Better
+4081,Low,High,Better
+4082,Very High,Medium,Better
+4083,High,Medium,Better
+4084,Very High,Very High,Better
+4085,Medium,Low,Better
+4086,Very High,High,Better
+4087,High,High,Best
+4088,High,Low,Better
+4089,Medium,High,Good
+4090,Very High,Very High,Best
+4091,Very High,High,Best
+4092,Medium,Medium,Better
+4093,High,Medium,Better
+4094,Very High,Medium,Good
+4095,Very High,High,Good
+4096,Low,High,Better
+4097,Medium,High,Good
+4098,Very High,Medium,Better
+4099,Low,High,Better
+4100,Low,High,Better
+4101,Very High,Low,Good
+4102,Very High,Very High,Better
+4103,High,Medium,Bad
+4104,Very High,High,Better
+4105,Very High,High,Best
+4106,Medium,High,Better
+4107,Medium,Very High,Better
+4108,High,Medium,Better
+4109,Low,Very High,Good
+4110,Medium,Medium,Better
+4111,Low,Very High,Better
+4112,Medium,High,Better
+4113,High,Very High,Better
+4114,High,Very High,Better
+4115,Low,High,Good
+4116,Low,Very High,Better
+4117,Medium,Very High,Better
+4118,High,Low,Better
+4119,Very High,Very High,Good
+4120,Very High,Low,Good
+4121,Low,Very High,Better
+4122,Very High,Medium,Better
+4123,High,High,Good
+4124,Low,Very High,Best
+4125,Low,High,Good
+4126,Very High,High,Bad
+4127,Low,Medium,Better
+4128,Very High,High,Better
+4129,Very High,Very High,Good
+4130,High,Medium,Better
+4131,Very High,Low,Better
+4132,High,Very High,Better
+4133,Low,Very High,Better
+4134,Medium,High,Better
+4135,Medium,Very High,Good
+4136,Very High,High,Better
+4137,High,High,Better
+4138,High,High,Best
+4139,High,High,Better
+4140,High,Very High,Better
+4141,Very High,Medium,Better
+4142,Very High,Low,Bad
+4143,Very High,Low,Better
+4144,Medium,Very High,Good
+4145,Medium,Low,Better
+4146,Very High,High,Better
+4147,High,Very High,Better
+4148,Very High,Low,Better
+4149,Medium,Medium,Better
+4150,Very High,Medium,Good
+4151,Medium,High,Best
+4152,Medium,Very High,Bad
+4153,High,Medium,Better
+4154,Very High,High,Better
+4155,Very High,High,Better
+4156,Low,Medium,Better
+4157,Very High,Very High,Good
+4158,High,Low,Good
+4159,Very High,High,Better
+4160,Very High,High,Better
+4161,High,High,Good
+4162,Low,Medium,Better
+4163,Very High,High,Better
+4164,Low,High,Good
+4165,Medium,Very High,Better
+4166,High,High,Better
+4167,Medium,Low,Better
+4168,Low,Medium,Good
+4169,Very High,Very High,Good
+4170,Low,Very High,Better
+4171,Very High,Very High,Better
+4172,Low,High,Good
+4173,High,Low,Better
+4174,Low,Medium,Better
+4175,High,Very High,Better
+4176,Medium,Low,Better
+4177,High,High,Good
+4178,Medium,Low,Better
+4179,High,Medium,Better
+4180,Low,Very High,Better
+4181,Medium,Low,Good
+4182,High,Very High,Better
+4183,Very High,Very High,Best
+4184,Very High,High,Better
+4185,Very High,Very High,Best
+4186,Medium,Very High,Good
+4187,Very High,High,Good
+4188,Low,High,Better
+4189,Very High,Very High,Better
+4190,Medium,Low,Best
+4191,High,Low,Better
+4192,High,Very High,Better
+4193,Very High,Low,Better
+4194,Low,High,Good
+4195,Very High,High,Better
+4196,High,Very High,Better
+4197,Medium,High,Better
+4198,Medium,High,Better
+4199,Medium,Medium,Better
+4200,Low,Very High,Better
+4201,Very High,Very High,Better
+4202,Low,High,Better
+4203,High,High,Good
+4204,Medium,Low,Good
+4205,High,Low,Better
+4206,High,Very High,Good
+4207,Low,Very High,Better
+4208,Medium,Low,Good
+4209,High,Low,Better
+4210,Very High,Very High,Good
+4211,Low,High,Best
+4212,Low,Very High,Better
+4213,Very High,Very High,Better
+4214,Medium,High,Good
+4215,Low,Low,Good
+4216,High,High,Better
+4217,Very High,High,Better
+4218,Medium,Medium,Better
+4219,Medium,High,Better
+4220,Medium,Low,Good
+4221,Very High,High,Good
+4222,Low,High,Good
+4223,High,Medium,Better
+4224,High,Medium,Better
+4225,Medium,Medium,Better
+4226,Medium,Very High,Better
+4227,High,Very High,Better
+4228,High,Low,Better
+4229,Very High,Low,Best
+4230,Low,High,Best
+4231,Medium,Medium,Better
+4232,Very High,Very High,Good
+4233,Medium,High,Better
+4234,Low,Very High,Better
+4235,Medium,Very High,Better
+4236,Low,Medium,Better
+4237,Very High,Very High,Good
+4238,High,Low,Better
+4239,Very High,Very High,Better
+4240,High,Very High,Better
+4241,High,Very High,Better
+4242,High,Medium,Good
+4243,High,Very High,Bad
+4244,High,Medium,Good
+4245,High,Low,Good
+4246,Medium,High,Better
+4247,Low,High,Bad
+4248,Low,High,Good
+4249,Medium,High,Best
+4250,Very High,High,Good
+4251,Medium,Medium,Best
+4252,High,Low,Better
+4253,Very High,Low,Better
+4254,Very High,Very High,Better
+4255,Low,High,Better
+4256,High,Very High,Best
+4257,High,Very High,Better
+4258,Low,Medium,Good
+4259,High,High,Better
+4260,Very High,Very High,Better
+4261,Medium,Very High,Better
+4262,Low,Low,Good
+4263,Low,High,Better
+4264,Very High,Very High,Better
+4265,Medium,High,Better
+4266,High,Medium,Better
+4267,High,Very High,Better
+4268,High,Low,Better
+4269,Medium,Very High,Better
+4270,Low,Very High,Better
+4271,High,Very High,Best
+4272,Low,High,Good
+4273,High,Medium,Best
+4274,Medium,Medium,Better
+4275,Low,High,Better
+4276,Medium,High,Good
+4277,High,Medium,Good
+4278,Very High,Very High,Good
+4279,Very High,High,Good
+4280,High,Very High,Better
+4281,High,Low,Good
+4282,Medium,High,Better
+4283,High,Very High,Better
+4284,Medium,High,Better
+4285,High,High,Better
+4286,High,High,Better
+4287,Medium,Medium,Better
+4288,Low,Very High,Better
+4289,Very High,High,Best
+4290,Low,High,Better
+4291,High,Very High,Bad
+4292,Low,Low,Best
+4293,High,Very High,Good
+4294,Very High,High,Better
+4295,Low,High,Good
+4296,Very High,Very High,Best
+4297,Very High,Low,Better
+4298,Medium,Very High,Better
+4299,Very High,Low,Good
+4300,High,Low,Better
+4301,Medium,Medium,Better
+4302,Medium,Medium,Better
+4303,High,Medium,Better
+4304,Medium,High,Bad
+4305,Medium,Medium,Better
+4306,Medium,Very High,Better
+4307,Very High,High,Better
+4308,Medium,High,Better
+4309,Medium,Medium,Good
+4310,High,Very High,Good
+4311,High,High,Better
+4312,High,Very High,Better
+4313,Very High,Medium,Bad
+4314,High,Very High,Bad
+4315,High,Very High,Bad
+4316,High,High,Good
+4317,High,Medium,Better
+4318,Low,High,Better
+4319,Medium,Very High,Better
+4320,Low,Very High,Best
+4321,High,High,Better
+4322,High,Medium,Good
+4323,High,Low,Best
+4324,Very High,Medium,Good
+4325,High,Low,Better
+4326,High,Low,Best
+4327,High,Low,Better
+4328,High,Very High,Best
+4329,Medium,Very High,Good
+4330,Medium,Low,Better
+4331,High,Very High,Better
+4332,High,Very High,Better
+4333,Very High,Medium,Better
+4334,Medium,Medium,Good
+4335,High,High,Good
+4336,Very High,Low,Better
+4337,Very High,Medium,Better
+4338,Very High,High,Better
+4339,High,Medium,Better
+4340,Very High,High,Good
+4341,Very High,Medium,Better
+4342,High,High,Better
+4343,Very High,Medium,Good
+4344,Medium,High,Better
+4345,Very High,High,Best
+4346,Low,Very High,Better
+4347,Medium,Low,Good
+4348,Medium,Medium,Better
+4349,High,High,Better
+4350,Very High,High,Better
+4351,Very High,Very High,Bad
+4352,High,Low,Better
+4353,Very High,Very High,Better
+4354,Very High,High,Best
+4355,High,Very High,Best
+4356,Medium,Low,Better
+4357,Medium,Very High,Good
+4358,Very High,Medium,Good
+4359,Medium,Very High,Better
+4360,Very High,Very High,Bad
+4361,Very High,Low,Better
+4362,Very High,Very High,Good
+4363,High,High,Better
+4364,Very High,High,Better
+4365,Medium,Medium,Bad
+4366,Very High,Low,Better
+4367,Very High,Very High,Better
+4368,High,Low,Good
+4369,High,High,Good
+4370,Very High,Very High,Better
+4371,Very High,Low,Better
+4372,Very High,Medium,Best
+4373,High,Medium,Better
+4374,Medium,Very High,Better
+4375,Low,High,Good
+4376,High,High,Better
+4377,High,Very High,Better
+4378,Low,Very High,Better
+4379,Medium,Very High,Better
+4380,High,High,Best
+4381,High,Very High,Good
+4382,High,Very High,Good
+4383,High,Very High,Better
+4384,Medium,High,Good
+4385,Very High,Very High,Good
+4386,High,Very High,Bad
+4387,Very High,Very High,Better
+4388,Low,Low,Best
+4389,Low,High,Best
+4390,High,Medium,Better
+4391,Very High,High,Bad
+4392,High,High,Better
+4393,High,Very High,Better
+4394,High,Low,Good
+4395,Low,Very High,Better
+4396,High,Very High,Better
+4397,Medium,High,Better
+4398,High,Very High,Good
+4399,Very High,Low,Better
+4400,High,Low,Good
+4401,Low,High,Better
+4402,Low,High,Better
+4403,High,High,Better
+4404,High,Very High,Better
+4405,Very High,Low,Better
+4406,Very High,Very High,Better
+4407,Low,High,Better
+4408,Very High,Low,Better
+4409,Low,High,Better

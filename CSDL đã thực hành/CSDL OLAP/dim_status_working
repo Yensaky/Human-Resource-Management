@@ -1,0 +1,6 @@
+StatusWorkingID,StatusInTime,OverTime
+0,OnTime,1
+1,Late,1
+2,Late,0
+3,Absent,0
+4,OnTime,0
